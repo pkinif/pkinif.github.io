@@ -1,13 +1,16 @@
-name: "PierrickWebsite"
-output_dir: "."
+name: "Pierrick Kinif"
+output_dir: '.'
 navbar:
-  title: "My First Website"
+  title: "Pierrick Kinif"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About Me"
-      href: about.html
+  - text: "Home"
+    href: index.html
+  - text: "About Me"
+    href: about.html
 output:
   html_document:
     theme: cosmo
     css: style.css
+    lib_dir: site_libs
+    self_contained: no
+
