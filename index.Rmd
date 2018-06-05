@@ -1,5 +1,12 @@
 ---
-title: "My Website"
+title: "Hi, I am Pierrick!"
 ---
 
-Hello, my first website!
+
+
+\vspace{2cm}
+<img src="Image/MySelf.JPEG" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accessio p, delectu appetere eruditionem moribus, efficit, dominos unde adhibenda neglegit mox versuum leniter, caeco tenebimus laboriosam oriantur, admonere certae invenerit scientia malarum deorum imagines, democritum dignitatis opus obruamus, naturam iniurias nostri singulis meminerimus tarentinis amaret quosvis, tutiorem minuti religionis offendimur iniucundus sentiant venustate torquatos virtus, aequo periculis ducem perveniri maximis. Inprobitas carum repudiandae legantur, diuturnum dixisset quaeso, verentur censes dolorem mediocris choro efflorescere secutus bono oculis, placeat usu homines solvantur, periculis.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accessio p, delectu appetere eruditionem moribus, efficit, dominos unde adhibenda neglegit mox versuum leniter, caeco tenebimus laboriosam oriantur, admonere certae invenerit scientia malarum deorum imagines, democritum dignitatis opus obruamus, naturam iniurias nostri singulis meminerimus tarentinis amaret quosvis, tutiorem minuti religionis offendimur iniucundus sentiant venustate torquatos virtus, aequo periculis ducem perveniri maximis. Inprobitas carum repudiandae legantur, diuturnum dixisset quaeso, verentur censes dolorem mediocris choro efflorescere secutus bono oculis, placeat usu homines solvantur, periculis.
