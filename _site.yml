@@ -1,15 +1,15 @@
-name: "Pierrick Kinif"
+name: Pierrick Kinif
 output_dir: '.'
 navbar:
-  title: "Pierrick Kinif"
+  title: Pierrick Kinif
   left:
-  - text: "Home"
+  - text: Home
     href: index.html
-  - text: "About Me"
+  - text: About Me
     href: about.html
 output:
   html_document:
-    theme: paper
+    theme: united
     css: style.css
     lib_dir: site_libs
     self_contained: no
