@@ -9,6 +9,13 @@ navbar:
       href: about.html
     - text: "Curriculum Vitae"
       href: Cv.html
+  right:
+    - icon: far fa-envelope
+      href: Contact.html
+    - icon: fab fa-github
+      href: https://github.com/pkinif
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/in/pierrickkinif/
 output:
   html_document:
     theme: flatly
