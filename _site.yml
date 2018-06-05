@@ -1,12 +1,14 @@
 name: "Pierrick Kinif"
 output_dir: "."
 navbar:
-  title: "Nice To Meet You!"
+  title: "Pierrick Kinif"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Curriculum Vitae"
+      href: Cv.html
 output:
   html_document:
     theme: flatly
