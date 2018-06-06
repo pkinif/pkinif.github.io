@@ -3,14 +3,13 @@ output_dir: "."
 navbar:
   title: "Pierrick Kinif"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About Me"
-      href: about.html
+      href: index.html
+    - text: "Portfolio"
+      href: Portfolio.html
+    - text: "Cv"
+      href: Cv.html
   right:
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: Files/Cv_Pdf.pdf
     - icon: far fa-envelope
       href: mailto:pierrick-kinif@hotmail.be 
     - icon: fab fa-github
@@ -20,5 +19,6 @@ navbar:
 output:
   html_document:
     theme: flatly
+    highlight: espresso
     css: style.css
 
