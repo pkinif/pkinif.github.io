@@ -1,0 +1,10 @@
+---
+title: "This is what I do during my free time"
+---
+
+
+```{r, echo = FALSE, message= FALSE, out.width="60%"}
+require(knitr)
+myimages<-list.files("Image/", pattern = ".JPG", full.names = TRUE)
+include_graphics(myimages)
+```

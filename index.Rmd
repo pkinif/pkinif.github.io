@@ -5,6 +5,15 @@ title: "Hi, I am Pierrick!"
 
 
 \vspace{2cm}
-<img src="Image/MySelf.JPEG" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="Image/MySelf.JPEG" style="width:35%; border:10px solid; margin-right: 20px" align="left">
 
 Fresh finance graduate with a great passion for Sustainable Development, my cursus in three different universities provided me a strong holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress. I am looking for a job opportunity that will improve my skills of data analyst and get me closer from my personal goal: *making the world a greener place*. 
+
+I have built this website for several reasons:
+
+1. Introduce myself 
+
+2. Bring all my personal web information into a nice virtual place
+
+3. Developing new programmation skills
+

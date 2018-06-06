@@ -5,8 +5,10 @@ navbar:
   left:
     - text: "About Me"
       href: index.html
+    - text: "Passion"
+      href: passion.html
     - text: "Portfolio"
-      href: Portfolio.html
+      href: about.html
     - text: "Cv"
       href: Cv.html
   right:
