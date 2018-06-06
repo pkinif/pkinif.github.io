@@ -6,7 +6,7 @@ navbar:
     - text: "About Me"
       href: index.html
     - text: "Portfolio"
-      href: about.html
+      href: portfolio.html
     - text: "Cv"
       href: Cv.html
     - text: "Passion"
@@ -23,4 +23,5 @@ output:
     theme: cosmo
     highlight: textmate
     css: style.css
+
 

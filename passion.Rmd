@@ -2,6 +2,35 @@
 title: "This is what I do during my free time"
 ---
 
+I can say that I have three main passions in my life. Indert hobby three (there is package for that: see http://www.htmlwidgets.org/showcase_diagrammer.html)
+
+https://rmarkdown.rstudio.com/flexdashboard/
+
+```{r echo = FALSE, message = FALSE, comment = FALSE}
+# With the takeout tool of google, I have dowloaded all my visited place from my google map. The file format is json. To open it in R I require the rjson package
+require(rjson)
+
+# then I load the db and tidy it with dplyr and tidyr #thanksHadley
+require(dplyr)
+require(tidyr)
+p <- as_data_frame(unlist(fromJSON(file = "Map/VisitedPlaces.json")))
+colnames(p) <- "Value"
+p$Value <- as.numeric(p$Value)
+p1 <- p %>% filter(!is.na(Value))
+p1$Coordinate <- c("Long", "Lat", "Lat", "Long")
+
+# Now I have a df of one column containing only lat and long. I create an index column representating the location in number. Then I spread Coordinate column to make the df tidy
+p1$Index <- rep(c(1:390), each = 2)
+p2 <- spread(p1, Coordinate, Value)
+
+# Now I use the package leaflet to represent a nice interactive map
+require(leaflet)
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng= p2$Long, lat= p2$Lat) 
+m
+```
+
 
 ```{r, echo = FALSE, message= FALSE, out.width="60%"}
 require(knitr)
