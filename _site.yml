@@ -19,6 +19,6 @@ navbar:
 output:
   html_document:
     theme: flatly
-    highlight: espresso
+    highlight: pygments
     css: style.css
 
