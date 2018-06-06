@@ -13,7 +13,7 @@ navbar:
       href: Cv.html
   right:
     - icon: far fa-envelope
-      href: mailto:pierrick-kinif@hotmail.be 
+      href: mailto:pierrick-kinif@hotmail.be
     - icon: fab fa-github
       href: https://github.com/pkinif
     - icon: fa-linkedin fa-lg
