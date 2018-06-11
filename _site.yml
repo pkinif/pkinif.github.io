@@ -5,12 +5,12 @@ navbar:
   left:
     - text: "About Me"
       href: index.html
-    - text: "Portfolio"
-      href: portfolio.html
+    #- text: "Portfolio"
+    # href: portfolio.html
     - text: "Cv"
       href: Cv.html
-    - text: "Passion"
-      href: passion.html
+    #- text: "Passion"
+      #href: passion.html
   right:
     - icon: far fa-envelope
       href: mailto:pierrick-kinif@hotmail.be
