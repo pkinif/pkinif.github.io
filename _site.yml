@@ -11,7 +11,6 @@ navbar:
       href: Cv.html
     #- text: "Passion"
       #href: passion.html
-    - href: google5fc5aed1f64394f0.html
   right:
     - icon: far fa-envelope
       href: mailto:pierrick-kinif@hotmail.be
