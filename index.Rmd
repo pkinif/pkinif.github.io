@@ -1,15 +1,9 @@
 &emsp;
 
 
-<html>
 <img src="Image/MySelf.JPEG" style="width:25%; border:10px solid; margin-right: 20px" align="left">
-<head>
-<meta name="google-site-verification" content="Kda2N1snqVkAjdZ_mQD-lE9RjAJbU8eJVnekRIg4oSI" />
-<title> Mon titre </title>
-</head>
-<body>
-</body>
-</html>
+
+
 
 # **Hi, I am Pierrick!**
 
