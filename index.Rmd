@@ -15,9 +15,9 @@ See you soon,
 
 
 ```{r echo = FALSE, message = FALSE, out.width = "5%"}
-require(knitr)
-signature <- "Image/Pierrick2.JPG"
-include_graphics(signature) 
+#require(knitr)
+#signature <- "Image/Pierrick2.JPG"
+#include_graphics(signature) 
 ```
 
 
