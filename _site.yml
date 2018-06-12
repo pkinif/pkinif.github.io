@@ -1,11 +1,11 @@
-name: "Pierrick Kinif"
+name: Pierrick Kinif
 output_dir: '.'
 navbar:
-  title: "Pierrick Kinif"
+  title: Pierrick Kinif
   left:
-  - text: "About Me"
+  - text: About Me
     href: index.html
-  - text: "Cv"
+  - text: Cv
     href: Cv.html
   right:
   - icon: far fa-envelope
