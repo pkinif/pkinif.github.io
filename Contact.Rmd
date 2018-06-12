@@ -1,6 +1,14 @@
----
-title: "Let's Get In Touch!"
----
+&emsp;
 
-Whether you want to go for a coffee, planning a trip or even offer me a job proposition, please send me an email at pierrick-kinif@hotmail.be.
+<img src="Image/contact.jpg" style="margin-right: 20px" align="left">
+
+# **Let's get in touch !**
+
+If you have arrived here it means that you want to chat more? I will be more than happy to discuss with you! Please pick up one of the following options:
+
+**Email:** pierrick-kinif@hotmail.be
+
+**Phone:** (+32) 478 113 485
+
+**Social Networks:** Linkedin, GitHub or ResearchGate (see links in the top right)
 

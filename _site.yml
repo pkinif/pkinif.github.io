@@ -1,27 +1,24 @@
 name: "Pierrick Kinif"
-output_dir: "."
+output_dir: '.'
 navbar:
   title: "Pierrick Kinif"
   left:
-    - text: "About Me"
-      href: index.html
-    #- text: "Portfolio"
-    # href: portfolio.html
-    - text: "Cv"
-      href: Cv.html
-    #- text: "Passion"
-      #href: passion.html
+  - text: "About Me"
+    href: index.html
+  - text: "Cv"
+    href: Cv.html
   right:
-    - icon: far fa-envelope
-      href: mailto:pierrick-kinif@hotmail.be
-    - icon: fab fa-github
-      href: https://github.com/pkinif
-    - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/pierrickkinif/
+  - icon: far fa-envelope
+    href: Contact.html
+  - icon: fab fa-github
+    href: https://github.com/pkinif
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/pierrickkinif/
 output:
   html_document:
     theme: cosmo
     highlight: textmate
     css: style.css
-
+    lib_dir: site_libs
+    self_contained: no
 

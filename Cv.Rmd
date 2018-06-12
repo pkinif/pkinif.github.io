@@ -1,12 +1,15 @@
 ---
 title: "Curriculum Vitae"
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true
 ---
 
 [Download CV in PDF](Files/Cv_Pdf.pdf)	
 
 # EDUCATION
-<img src="Image/MySelfButNiceJacket.jpg" style="width:19%; border:10px solid; margin-right: 20px;position:absolute;top:0px;right:0px;" />
-
+<img src="Image/MySelfButNiceJacket.jpg" style="width:19%;position:absolute;top:0px;right:0px;" />
 
 **09/2017-Present**: *University of Luxembourg*, Cert. in Sust. Dvlp and Soc. Innov.  
 
