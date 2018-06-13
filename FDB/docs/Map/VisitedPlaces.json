@@ -1,0 +1,3389 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 6.1245369, 49.6181915 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4133673679233504206",
+      "Location" : {
+        "Address" : "41 Allée Scheffer, 2520 Luxembourg",
+        "Business Name" : "Brasserie Siegfried",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6181915",
+          "Longitude" : "6.1245369"
+        }
+      },
+      "Published" : "2018-03-20T14:55:27Z",
+      "Title" : "Siegfried Von Westeschgaart",
+      "Updated" : "2018-03-20T14:55:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.137753, 49.603275 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=20+Rue+des+Trevires,+2628+Luxembourg&ftid=0x479548cee56d4c77:0x1a616be44470f796",
+      "Location" : {
+        "Latitude" : "49.603275",
+        "Longitude" : "6.137753"
+      },
+      "Published" : "2018-02-06T16:38:34Z",
+      "Title" : "20 Rue des Trevires, 2628 Luxembourg",
+      "Updated" : "2018-02-06T16:38:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1208580, 49.5802400 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11170200573499347083",
+      "Location" : {
+        "Address" : "2 Rue Gerhard Mercator, 2182 Luxembourg",
+        "Business Name" : "PwC Luxembourg",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.5802400",
+          "Longitude" : "6.1208580"
+        }
+      },
+      "Published" : "2017-12-14T08:27:05Z",
+      "Title" : "PwC Luxembourg",
+      "Updated" : "2017-12-14T08:27:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.8315080, 49.7172940 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8862090777274651209",
+      "Location" : {
+        "Address" : "Rue de la Platinerie 100, 6700 Bonnert (Arlon), Belgique",
+        "Business Name" : "Le Val du Scherbach - salle de fête",
+        "Country Code" : "BE",
+        "Geo Coordinates" : {
+          "Latitude" : "49.7172940",
+          "Longitude" : "5.8315080"
+        }
+      },
+      "Published" : "2017-10-27T16:33:56Z",
+      "Title" : "Le Val du Scherbach - salle de fête",
+      "Updated" : "2017-10-27T16:33:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.8106112, 49.6900024 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17965447152463704387",
+      "Location" : {
+        "Address" : "Rue des Genêts 3, 6700 Arlon, Belgique",
+        "Business Name" : "ESPACE TEC Arlon",
+        "Country Code" : "BE",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6900024",
+          "Longitude" : "5.8106112"
+        }
+      },
+      "Published" : "2017-09-07T12:41:04Z",
+      "Title" : "Espace TEC",
+      "Updated" : "2017-09-07T12:41:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1121023, 49.6235816 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17790057622247737393",
+      "Location" : {
+        "Address" : "Limpertsberg, Luxembourg",
+        "Business Name" : "Campus Limpertsberg",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6235816",
+          "Longitude" : "6.1121023"
+        }
+      },
+      "Published" : "2017-09-04T18:41:17Z",
+      "Title" : "Campus Limpertsberg",
+      "Updated" : "2017-09-04T18:41:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1120400, 49.6220300 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9217251137767914011",
+      "Location" : {
+        "Address" : "Luxembourg",
+        "Business Name" : "Limpertsberg, Jean Soupert",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6220300",
+          "Longitude" : "6.1120400"
+        }
+      },
+      "Published" : "2017-09-04T18:41:01Z",
+      "Title" : "Limpertsberg, Centre Universitaire",
+      "Updated" : "2017-09-04T18:41:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 21.3201930, 45.8102336 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7577649791374601976",
+      "Location" : {
+        "Address" : "Strada Aeroportului 2, Timisoara 307200, Roumanie",
+        "Business Name" : "Aéroport international Traian-Vuia",
+        "Country Code" : "RO",
+        "Geo Coordinates" : {
+          "Latitude" : "45.8102336",
+          "Longitude" : "21.3201930"
+        }
+      },
+      "Published" : "2017-09-04T08:05:32Z",
+      "Title" : "Aéroport international Traian-Vuia",
+      "Updated" : "2017-09-04T08:05:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 21.2312693, 45.7588115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12909997014021873175",
+      "Location" : {
+        "Address" : "Pta Unirii, 4, Timisoara, Timis, 300085, Timișoara, Roumanie",
+        "Business Name" : "Ornella Design S.R.L.",
+        "Country Code" : "RO",
+        "Geo Coordinates" : {
+          "Latitude" : "45.7588115",
+          "Longitude" : "21.2312693"
+        }
+      },
+      "Published" : "2017-09-04T07:59:17Z",
+      "Title" : "Ornella Design S.R.L.",
+      "Updated" : "2017-09-04T07:59:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 21.2297667, 45.7554979 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9510597392928657096",
+      "Location" : {
+        "Address" : "Strada Episcop Augustin Pacha, Timișoara 300055, Roumanie",
+        "Business Name" : "UMan Lifestyle",
+        "Country Code" : "RO",
+        "Geo Coordinates" : {
+          "Latitude" : "45.7554979",
+          "Longitude" : "21.2297667"
+        }
+      },
+      "Published" : "2017-09-04T07:58:07Z",
+      "Title" : "UMan Lifestyle",
+      "Updated" : "2017-09-04T07:58:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.611827, 44.904944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=44.904944,15.611827",
+      "Location" : {
+        "Latitude" : "44.904944",
+        "Longitude" : "15.611827"
+      },
+      "Published" : "2017-08-05T03:28:38Z",
+      "Title" : "44.904944,15.611827",
+      "Updated" : "2017-09-01T06:17:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.089904, 42.091211 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bar,+Mont%C3%A9n%C3%A9gro&ftid=0x134e73eeb192bc07:0xf2645fc8c9b10246",
+      "Location" : {
+        "Latitude" : "42.091211",
+        "Longitude" : "19.089904"
+      },
+      "Published" : "2017-08-30T14:02:22Z",
+      "Title" : "Bar, Monténégro",
+      "Updated" : "2017-08-30T14:02:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.135979, 42.096390 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Stari+Bar,+Mont%C3%A9n%C3%A9gro&ftid=0x134e7387f4fc7753:0xd069f639f08f1d43",
+      "Location" : {
+        "Latitude" : "42.096390",
+        "Longitude" : "19.135979"
+      },
+      "Published" : "2017-08-30T14:01:59Z",
+      "Title" : "Stari Bar, Monténégro",
+      "Updated" : "2017-08-30T14:01:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.1337355, 42.0937993 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5542021643493118555",
+      "Location" : {
+        "Address" : "StaroBarska Čarsija, Stari Bar 85354, Monténégro",
+        "Business Name" : "Restaurant Kaldrma",
+        "Country Code" : "ME",
+        "Geo Coordinates" : {
+          "Latitude" : "42.0937993",
+          "Longitude" : "19.1337355"
+        }
+      },
+      "Published" : "2017-08-30T14:01:27Z",
+      "Title" : "Restaurant Kaldrma",
+      "Updated" : "2017-08-30T14:01:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.463652, 44.815721 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Makedonska+21,+Beograd,+Serbie&ftid=0x475a7ab1997f274b:0x66a11409aac586e4",
+      "Location" : {
+        "Latitude" : "44.815721",
+        "Longitude" : "20.463652"
+      },
+      "Published" : "2017-08-30T14:00:17Z",
+      "Title" : "Makedonska 21, Beograd, Serbie",
+      "Updated" : "2017-08-30T14:00:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.849579, 44.866623 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pula,+Croatie&ftid=0x477cd2de09337b6d:0x72324a3a7b4e580d",
+      "Location" : {
+        "Latitude" : "44.866623",
+        "Longitude" : "13.849579"
+      },
+      "Published" : "2017-08-28T06:14:03Z",
+      "Title" : "Pula, Croatie",
+      "Updated" : "2017-08-28T06:14:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.594740, 45.227165 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pore%C4%8D,+Croatie&ftid=0x477c979c94879029:0x7a9e5b587feaabd",
+      "Location" : {
+        "Latitude" : "45.227165",
+        "Longitude" : "13.594740"
+      },
+      "Published" : "2017-08-28T06:13:45Z",
+      "Title" : "Poreč, Croatie",
+      "Updated" : "2017-08-28T06:13:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.771234, 42.424662 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Kotor,+Mont%C3%A9n%C3%A9gro&ftid=0x134c33063d70c91b:0x7a73f15e212e9306",
+      "Location" : {
+        "Latitude" : "42.424662",
+        "Longitude" : "18.771234"
+      },
+      "Published" : "2017-08-28T06:11:42Z",
+      "Title" : "Kotor, Monténégro",
+      "Updated" : "2017-08-28T06:11:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.7649918, 42.4444880 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5071105407644357862",
+      "Location" : {
+        "Address" : "E65, Dobrota, Monténégro",
+        "Business Name" : "Dobrotski Dvori",
+        "Country Code" : "ME",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4444880",
+          "Longitude" : "18.7649918"
+        }
+      },
+      "Published" : "2017-08-28T06:11:07Z",
+      "Title" : "Dobrotski Dvori",
+      "Updated" : "2017-08-28T06:11:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 20.448922, 44.786568 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Belgrade,+Serbie&ftid=0x475a7aa3d7b53fbd:0x1db8645cf2177ee4",
+      "Location" : {
+        "Latitude" : "44.786568",
+        "Longitude" : "20.448922"
+      },
+      "Published" : "2017-08-27T08:34:36Z",
+      "Title" : "Belgrade, Serbie",
+      "Updated" : "2017-08-27T08:34:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 21.294488, 45.118193 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Vr%C5%A1ac,+Serbie&ftid=0x475014c5c5a2f53d:0x1a10369c2cb8e43a",
+      "Location" : {
+        "Latitude" : "45.118193",
+        "Longitude" : "21.294488"
+      },
+      "Published" : "2017-08-27T08:34:28Z",
+      "Title" : "Vršac, Serbie",
+      "Updated" : "2017-08-27T08:34:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.092133, 43.146169 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Crno+Jezero,+Mont%C3%A9n%C3%A9gro&ftid=0x134d3c1d10413275:0x9c9cfb3370a677ef",
+      "Location" : {
+        "Latitude" : "43.146169",
+        "Longitude" : "19.092133"
+      },
+      "Published" : "2017-08-27T05:20:25Z",
+      "Title" : "Crno Jezero, Monténégro",
+      "Updated" : "2017-08-27T05:20:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.841038, 43.154137 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Plu%C5%BEine,+Mont%C3%A9n%C3%A9gro&ftid=0x134d205e6e6b1149:0x63537247c90a8317",
+      "Location" : {
+        "Latitude" : "43.154137",
+        "Longitude" : "18.841038"
+      },
+      "Published" : "2017-08-27T05:19:12Z",
+      "Title" : "Plužine, Monténégro",
+      "Updated" : "2017-08-27T05:19:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.942795, 43.189973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Trsa,+Mont%C3%A9n%C3%A9gro&ftid=0x134d23929e244d5b:0xfd7c23e6a3fc94bd",
+      "Location" : {
+        "Latitude" : "43.189973",
+        "Longitude" : "18.942795"
+      },
+      "Published" : "2017-08-27T05:18:18Z",
+      "Title" : "Trsa, Monténégro",
+      "Updated" : "2017-08-27T05:18:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.982910, 43.195950 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Nedajno,+Mont%C3%A9n%C3%A9gro&ftid=0x134d24c684109fe1:0x2ebe850eb9e23465",
+      "Location" : {
+        "Latitude" : "43.195950",
+        "Longitude" : "18.982910"
+      },
+      "Published" : "2017-08-27T05:18:06Z",
+      "Title" : "Nedajno, Monténégro",
+      "Updated" : "2017-08-27T05:18:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.0895813, 43.1496180 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4923910468244663822",
+      "Location" : {
+        "Address" : "Žabljak, Monténégro",
+        "Business Name" : "Durmitor",
+        "Country Code" : "ME",
+        "Geo Coordinates" : {
+          "Latitude" : "43.1496180",
+          "Longitude" : "19.0895813"
+        }
+      },
+      "Published" : "2017-08-27T05:17:47Z",
+      "Title" : "Durmitor",
+      "Updated" : "2017-08-27T05:17:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.034222, 43.127796 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bobotov+Kuk,+Mont%C3%A9n%C3%A9gro&ftid=0x134d3d0298685e25:0x1427e9f0ec0cdffe",
+      "Location" : {
+        "Latitude" : "43.127796",
+        "Longitude" : "19.034222"
+      },
+      "Published" : "2017-08-27T05:17:29Z",
+      "Title" : "Bobotov Kuk, Monténégro",
+      "Updated" : "2017-08-27T05:17:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.0958321, 49.6210608 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18166247387640909095",
+      "Location" : {
+        "Address" : "2 Rue Thomas Edison, 1445 Strassen, Luxembourg",
+        "Business Name" : "Creos Luxembourg S.A.",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6210608",
+          "Longitude" : "6.0958321"
+        }
+      },
+      "Published" : "2017-08-22T14:47:59Z",
+      "Title" : "Creos Luxembourg S.A.",
+      "Updated" : "2017-08-22T14:47:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.536048, 43.167245 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Gacko,+Bosnie-Herz%C3%A9govine&ftid=0x134ce98e924a2e9d:0x7d5e9b332a4592a6",
+      "Location" : {
+        "Latitude" : "43.167245",
+        "Longitude" : "18.536048"
+      },
+      "Published" : "2017-08-18T16:25:31Z",
+      "Title" : "Gacko, Bosnie-Herzégovine",
+      "Updated" : "2017-08-18T16:25:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.352222, 48.856614 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Paris,+France&ftid=0x47e66e1f06e2b70f:0x40b82c3688c9460",
+      "Location" : {
+        "Latitude" : "48.856614",
+        "Longitude" : "2.352222"
+      },
+      "Published" : "2017-08-17T17:22:59Z",
+      "Title" : "Paris, France",
+      "Updated" : "2017-08-17T17:22:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.805528, 43.949317 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Avignon,+France&ftid=0x12b5eb8739bc9d07:0xe6429b6efa1d7b36",
+      "Location" : {
+        "Latitude" : "43.949317",
+        "Longitude" : "4.805528"
+      },
+      "Published" : "2017-08-17T17:22:40Z",
+      "Title" : "Avignon, France",
+      "Updated" : "2017-08-17T17:22:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.137918, 43.537476 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Le+Grau-du-Roi,+France&ftid=0x12b69124a10b842b:0x4078821166b4080",
+      "Location" : {
+        "Latitude" : "43.537476",
+        "Longitude" : "4.137918"
+      },
+      "Published" : "2017-08-17T17:22:27Z",
+      "Title" : "Le Grau-du-Roi, France",
+      "Updated" : "2017-08-17T17:22:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.551044, 44.514098 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=05200+Les+Orres,+France&ftid=0x12cc9820b1e8440d:0x40819a5fd97a520",
+      "Location" : {
+        "Latitude" : "44.514098",
+        "Longitude" : "6.551044"
+      },
+      "Published" : "2017-08-17T17:22:04Z",
+      "Title" : "Les Orres, 05200, France",
+      "Updated" : "2017-08-17T17:22:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.724524, 45.188529 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Grenoble,+France&ftid=0x478af48bd689be6f:0x618c10cd6e995398",
+      "Location" : {
+        "Latitude" : "45.188529",
+        "Longitude" : "5.724524"
+      },
+      "Published" : "2017-08-17T17:21:52Z",
+      "Title" : "Grenoble, France",
+      "Updated" : "2017-08-17T17:21:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.835659, 45.764043 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lyon,+France&ftid=0x47f4ea516ae88797:0x408ab2ae4bb21f0",
+      "Location" : {
+        "Latitude" : "45.764043",
+        "Longitude" : "4.835659"
+      },
+      "Published" : "2017-08-17T17:21:41Z",
+      "Title" : "Lyon, France",
+      "Updated" : "2017-08-17T17:21:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.586812, 50.665725 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ottignies-Louvain-la-Neuve&ftid=0x47c17bd127c2c78b:0xe8cddec167c143ab",
+      "Location" : {
+        "Latitude" : "50.665725",
+        "Longitude" : "4.586812"
+      },
+      "Published" : "2017-08-17T17:21:08Z",
+      "Title" : "Ottignies-Louvain-la-Neuve",
+      "Updated" : "2017-08-17T17:21:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.871985, 50.467388 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Namur&ftid=0x47c1996d0c2c653f:0xc15626b6c4165205",
+      "Location" : {
+        "Latitude" : "50.467388",
+        "Longitude" : "4.871985"
+      },
+      "Published" : "2017-08-17T17:21:00Z",
+      "Title" : "Namur",
+      "Updated" : "2017-08-17T17:21:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.444643, 50.410809 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Charleroi&ftid=0x47c225f096ca39c9:0x40099ab2f4d6410",
+      "Location" : {
+        "Latitude" : "50.410809",
+        "Longitude" : "4.444643"
+      },
+      "Published" : "2017-08-17T17:20:52Z",
+      "Title" : "Charleroi",
+      "Updated" : "2017-08-17T17:20:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 3.956659, 50.454241 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mons&ftid=0x47c24558a6578cfb:0x40099ab2f4d6c90",
+      "Location" : {
+        "Latitude" : "50.454241",
+        "Longitude" : "3.956659"
+      },
+      "Published" : "2017-08-17T17:20:35Z",
+      "Title" : "Mons",
+      "Updated" : "2017-08-17T17:20:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 3.387934, 50.605647 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tournai&ftid=0x47c2e0184ab23be3:0x40099ab2f4d7130",
+      "Location" : {
+        "Latitude" : "50.605647",
+        "Longitude" : "3.387934"
+      },
+      "Published" : "2017-08-17T17:20:25Z",
+      "Title" : "Tournai",
+      "Updated" : "2017-08-17T17:20:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.252208, 50.750115 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Saint-Omer,+France&ftid=0x47dcf893912760af:0x40af13e8163d5e0",
+      "Location" : {
+        "Latitude" : "50.750115",
+        "Longitude" : "2.252208"
+      },
+      "Published" : "2017-08-17T17:20:04Z",
+      "Title" : "Saint-Omer, France",
+      "Updated" : "2017-08-17T17:20:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.376776, 51.034368 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Dunkerque,+France&ftid=0x47dc8b6dd9ff20b9:0x40af13e81646da0",
+      "Location" : {
+        "Latitude" : "51.034368",
+        "Longitude" : "2.376776"
+      },
+      "Published" : "2017-08-17T17:19:48Z",
+      "Title" : "Dunkerque, France",
+      "Updated" : "2017-08-17T17:19:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 3.224699, 51.209348 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bruges&ftid=0x47c350d0c11e420d:0x1aa2f35ac8834df7",
+      "Location" : {
+        "Latitude" : "51.209348",
+        "Longitude" : "3.224699"
+      },
+      "Published" : "2017-08-17T17:19:33Z",
+      "Title" : "Bruges",
+      "Updated" : "2017-08-17T17:19:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 3.717424, 51.054342 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Gand&ftid=0x47c370e1339443ad:0x40099ab2f4d5140",
+      "Location" : {
+        "Latitude" : "51.054342",
+        "Longitude" : "3.717424"
+      },
+      "Published" : "2017-08-17T17:19:26Z",
+      "Title" : "Gand",
+      "Updated" : "2017-08-17T17:19:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.402464, 51.219447 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Anvers&ftid=0x47c3f68ebfc3887d:0x3eaf448482a88ab8",
+      "Location" : {
+        "Latitude" : "51.219447",
+        "Longitude" : "4.402464"
+      },
+      "Published" : "2017-08-17T17:19:21Z",
+      "Title" : "Anvers",
+      "Updated" : "2017-08-17T17:19:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.469723, 51.441642 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Eindhoven,+Pays-Bas&ftid=0x47c6d91b5579c39f:0xf39ad2648164b998",
+      "Location" : {
+        "Latitude" : "51.441642",
+        "Longitude" : "5.469723"
+      },
+      "Published" : "2017-08-17T17:19:13Z",
+      "Title" : "Eindhoven, Pays-Bas",
+      "Updated" : "2017-08-17T17:19:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 4.469936, 50.503887 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Belgique&ftid=0x47c17d64edf39797:0x47ebf2b439e60ff2",
+      "Location" : {
+        "Latitude" : "50.503887",
+        "Longitude" : "4.469936"
+      },
+      "Published" : "2017-08-17T17:18:56Z",
+      "Title" : "Belgique",
+      "Updated" : "2017-08-17T17:18:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.486316, 51.896892 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cork,+Irlande&ftid=0x4844900891beb961:0xa00c7a99731c5d0",
+      "Location" : {
+        "Latitude" : "51.896892",
+        "Longitude" : "-8.486316"
+      },
+      "Published" : "2017-08-17T17:18:37Z",
+      "Title" : "Cork, Irlande",
+      "Updated" : "2017-08-17T17:18:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -10.020239, 53.489134 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Clifden,+Co.+Galway,+Irlande&ftid=0x485a24b34aef62e9:0xa00c7a997319670",
+      "Location" : {
+        "Latitude" : "53.489134",
+        "Longitude" : "-10.020239"
+      },
+      "Published" : "2017-08-17T17:18:16Z",
+      "Title" : "Clifden, Co. Galway, Irlande",
+      "Updated" : "2017-08-17T17:18:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -9.056791, 53.270668 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Galway,+Irlande&ftid=0x485b93955a2d5bff:0x32b1b440a495281",
+      "Location" : {
+        "Latitude" : "53.270668",
+        "Longitude" : "-9.056791"
+      },
+      "Published" : "2017-08-17T17:18:02Z",
+      "Title" : "Galway, Irlande",
+      "Updated" : "2017-08-17T17:18:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.260310, 53.349805 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Dublin,+Irlande&ftid=0x48670e80ea27ac2f:0xa00c7a9973171a0",
+      "Location" : {
+        "Latitude" : "53.349805",
+        "Longitude" : "-6.260310"
+      },
+      "Published" : "2017-08-17T17:17:53Z",
+      "Title" : "Dublin, Irlande",
+      "Updated" : "2017-08-17T17:17:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.078909, 51.280233 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Canterbury,+Royaume-Uni&ftid=0x47d94ac50d832c89:0x9ef1e5533783f98a",
+      "Location" : {
+        "Latitude" : "51.280233",
+        "Longitude" : "1.078909"
+      },
+      "Published" : "2017-08-17T17:17:45Z",
+      "Title" : "Canterbury, Royaume-Uni",
+      "Updated" : "2017-08-17T17:17:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.791538, 37.677870 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=91022+Castelvetrano,+Trapani,+Italie&ftid=0x131bcb38777d31b5:0xe8a547b7c4945ef7",
+      "Location" : {
+        "Latitude" : "37.677870",
+        "Longitude" : "12.791538"
+      },
+      "Published" : "2017-08-17T17:17:23Z",
+      "Title" : "Castelvetrano, 91022 Trapani, Italie",
+      "Updated" : "2017-08-17T17:17:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.589962, 37.655093 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=91026+Mazara+del+Vallo,+Trapani,+Italie&ftid=0x131bc793c6f7e189:0xda05b8f976167ed7",
+      "Location" : {
+        "Latitude" : "37.655093",
+        "Longitude" : "12.589962"
+      },
+      "Published" : "2017-08-17T17:17:12Z",
+      "Title" : "Mazara del Vallo, 91026 Trapani, Italie",
+      "Updated" : "2017-08-17T17:17:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.328613, 37.931076 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=91023+Favignana+Trapani,+Italie&ftid=0x131be3ee004dbf7d:0xb267d37d6fcca8f6",
+      "Location" : {
+        "Latitude" : "37.931076",
+        "Longitude" : "12.328613"
+      },
+      "Published" : "2017-08-17T17:17:03Z",
+      "Title" : "Favignana, 91023 Trapani, Italie",
+      "Updated" : "2017-08-17T17:17:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.437016, 37.798045 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=91025+Marsala,+Trapani,+Italie&ftid=0x131bc3210df016bd:0x860dca8d100255c7",
+      "Location" : {
+        "Latitude" : "37.798045",
+        "Longitude" : "12.437016"
+      },
+      "Published" : "2017-08-17T17:16:53Z",
+      "Title" : "Marsala, 91025 Trapani, Italie",
+      "Updated" : "2017-08-17T17:16:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.585982, 37.309407 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=92100+Agrigento,+Agrigente,+Italie&ftid=0x1310825576b38787:0x3af1c012089341b3",
+      "Location" : {
+        "Latitude" : "37.309407",
+        "Longitude" : "13.585982"
+      },
+      "Published" : "2017-08-17T17:16:45Z",
+      "Title" : "Agrigento, 92100 Agrigente, Italie",
+      "Updated" : "2017-08-17T17:16:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 12.537202, 38.017618 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=91100+Trapani,+Italie&ftid=0x1319622fd6a4905f:0x8bf1debcf9983482",
+      "Location" : {
+        "Latitude" : "38.017618",
+        "Longitude" : "12.537202"
+      },
+      "Published" : "2017-08-17T17:16:38Z",
+      "Title" : "Trapani, 91100 Trapani, Italie",
+      "Updated" : "2017-08-17T17:16:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 13.361267, 38.115688 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Palerme,+Italie&ftid=0x1319e8c9814ed099:0xa0b042c233bd880",
+      "Location" : {
+        "Latitude" : "38.115688",
+        "Longitude" : "13.361267"
+      },
+      "Published" : "2017-08-17T17:16:31Z",
+      "Title" : "Palerme, Italie",
+      "Updated" : "2017-08-17T17:16:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 17.807758, 43.343775 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mostar+88000,+Bosnie-Herz%C3%A9govine&ftid=0x134b43a43b6340a9:0x14f32b2d4e37c5a",
+      "Location" : {
+        "Latitude" : "43.343775",
+        "Longitude" : "17.807758"
+      },
+      "Published" : "2017-08-17T17:15:48Z",
+      "Title" : "Mostar, 88000, Bosnie-Herzégovine",
+      "Updated" : "2017-08-17T17:15:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.777264, 43.505478 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Fo%C4%8Da,+Bosnie-Herz%C3%A9govine&ftid=0x4758814a1b8cadb1:0x91ee2db74144313f",
+      "Location" : {
+        "Latitude" : "43.505478",
+        "Longitude" : "18.777264"
+      },
+      "Published" : "2017-08-16T21:23:01Z",
+      "Title" : "Foča, Bosnie-Herzégovine",
+      "Updated" : "2017-08-16T21:23:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.688823, 43.318420 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tjenti%C5%A1te,+Bosnie-Herz%C3%A9govine&ftid=0x134cd14dfe380359:0x66595d641a9fb8ae",
+      "Location" : {
+        "Latitude" : "43.318420",
+        "Longitude" : "18.688823"
+      },
+      "Published" : "2017-08-16T21:00:05Z",
+      "Title" : "Tjentište, Bosnie-Herzégovine",
+      "Updated" : "2017-08-16T21:00:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 21.208679, 45.748872 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Timi%C8%99oara,+Roumanie&ftid=0x4745677dcb0fb5a7:0x537faf6473936749",
+      "Location" : {
+        "Latitude" : "45.748872",
+        "Longitude" : "21.208679"
+      },
+      "Published" : "2017-08-16T10:37:05Z",
+      "Title" : "Timișoara, Roumanie",
+      "Updated" : "2017-08-16T10:37:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.328887, -23.967882 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santos,+%C3%89tat+de+S%C3%A3o+Paulo,+Br%C3%A9sil&ftid=0x94ce03423c3b1c3b:0x584dceedfc63644f",
+      "Location" : {
+        "Latitude" : "-23.967882",
+        "Longitude" : "-46.328887"
+      },
+      "Published" : "2017-08-16T10:34:48Z",
+      "Title" : "Santos, État de São Paulo, Brésil",
+      "Updated" : "2017-08-16T10:34:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.5449629, -13.1631412 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4183904589858216487",
+      "Location" : {
+        "Address" : "Pérou",
+        "Business Name" : "Machu Picchu",
+        "Country Code" : "PE",
+        "Geo Coordinates" : {
+          "Latitude" : "-13.1631412",
+          "Longitude" : "-72.5449629"
+        }
+      },
+      "Published" : "2017-08-16T10:34:03Z",
+      "Title" : "Machu Picchu",
+      "Updated" : "2017-08-16T10:34:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -69.040395, -16.563125 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Desaguadero,+P%C3%A9rou&ftid=0x915c189dbde098fb:0xd381668215a1654e",
+      "Location" : {
+        "Latitude" : "-16.563125",
+        "Longitude" : "-69.040395"
+      },
+      "Published" : "2017-08-16T10:32:54Z",
+      "Title" : "Desaguadero, Pérou",
+      "Updated" : "2017-08-16T10:32:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -69.086157, -16.166294 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Copacabana,+Bolivie&ftid=0x915dcd7e020a5f2f:0x5ff56029fdb79a4a",
+      "Location" : {
+        "Latitude" : "-16.166294",
+        "Longitude" : "-69.086157"
+      },
+      "Published" : "2017-08-16T10:32:43Z",
+      "Title" : "Copacabana, Bolivie",
+      "Updated" : "2017-08-16T10:32:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.599100, -15.639349 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Chivay,+P%C3%A9rou&ftid=0x9169e0cd06a9efdd:0x49691458e64f8a85",
+      "Location" : {
+        "Latitude" : "-15.639349",
+        "Longitude" : "-71.599100"
+      },
+      "Published" : "2017-08-16T10:32:33Z",
+      "Title" : "Chivay, Pérou",
+      "Updated" : "2017-08-16T10:32:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.0896229, -15.6093293 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17621399869516271362",
+      "Location" : {
+        "Address" : "Chivay, Pérou",
+        "Business Name" : "Canyon de Colca",
+        "Country Code" : "PE",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.6093293",
+          "Longitude" : "-72.0896229"
+        }
+      },
+      "Published" : "2017-08-16T10:32:24Z",
+      "Title" : "Canyon de Colca",
+      "Updated" : "2017-08-16T10:32:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.848239, -13.421685 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=P%C3%ADsac,+P%C3%A9rou&ftid=0x916e77554ed2763f:0xfd1675fe424adb93",
+      "Location" : {
+        "Latitude" : "-13.421685",
+        "Longitude" : "-71.848239"
+      },
+      "Published" : "2017-08-16T10:31:59Z",
+      "Title" : "Písac, Pérou",
+      "Updated" : "2017-08-16T10:31:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.115628, -13.305764 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Urubamba,+P%C3%A9rou&ftid=0x916ddce02c0b73b7:0xa2f520ed807a2bcb",
+      "Location" : {
+        "Latitude" : "-13.305764",
+        "Longitude" : "-72.115628"
+      },
+      "Published" : "2017-08-16T10:31:52Z",
+      "Title" : "Urubamba, Pérou",
+      "Updated" : "2017-08-16T10:31:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.525441, -13.154706 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Aguas+Calientes,+P%C3%A9rou&ftid=0x916d9a83b8c1ff35:0x8489a922d6a55182",
+      "Location" : {
+        "Latitude" : "-13.154706",
+        "Longitude" : "-72.525441"
+      },
+      "Published" : "2017-08-16T10:31:34Z",
+      "Title" : "Aguas Calientes, Pérou",
+      "Updated" : "2017-08-16T10:31:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.967463, -13.531950 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cuzco,+P%C3%A9rou&ftid=0x916dd5d826598431:0x2aa996cc2318315d",
+      "Location" : {
+        "Latitude" : "-13.531950",
+        "Longitude" : "-71.967463"
+      },
+      "Published" : "2017-08-16T10:31:27Z",
+      "Title" : "Cuzco, Pérou",
+      "Updated" : "2017-08-16T10:31:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -70.021881, -15.840222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Puno,+P%C3%A9rou&ftid=0x915d6985f4e74135:0x1e341dd8f24d32cf",
+      "Location" : {
+        "Latitude" : "-15.840222",
+        "Longitude" : "-70.021881"
+      },
+      "Published" : "2017-08-16T10:31:19Z",
+      "Title" : "Puno, Pérou",
+      "Updated" : "2017-08-16T10:31:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.537451, -16.409047 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Arequipa,+P%C3%A9rou&ftid=0x91424a487785b9b3:0xa3c4a612b9942036",
+      "Location" : {
+        "Latitude" : "-16.409047",
+        "Longitude" : "-71.537451"
+      },
+      "Published" : "2017-08-16T10:31:12Z",
+      "Title" : "Arequipa, Pérou",
+      "Updated" : "2017-08-16T10:31:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.903605, 44.989360 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Senj,+Croatie&ftid=0x47639984a6ae8e53:0xee12096298e326b4",
+      "Location" : {
+        "Latitude" : "44.989360",
+        "Longitude" : "14.903605"
+      },
+      "Published" : "2017-08-16T10:29:38Z",
+      "Title" : "Senj, Croatie",
+      "Updated" : "2017-08-16T10:29:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.237525, 44.868934 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=53220,+Oto%C4%8Dac,+Croatie&ftid=0x4763c26947b5709d:0xf442b967623e1ff3",
+      "Location" : {
+        "Latitude" : "44.868934",
+        "Longitude" : "15.237525"
+      },
+      "Published" : "2017-08-16T10:28:49Z",
+      "Title" : "Otočac, 53220, Croatie",
+      "Updated" : "2017-08-16T10:28:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.231365, 44.119371 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Zadar,+Croatie&ftid=0x4761fa62d2c0b88f:0x12323e1c13f40784",
+      "Location" : {
+        "Latitude" : "44.119371",
+        "Longitude" : "15.231365"
+      },
+      "Published" : "2017-08-16T10:27:58Z",
+      "Title" : "Zadar, Croatie",
+      "Updated" : "2017-08-16T10:27:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.207804, 42.622760 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=20207,+Mlini,+Croatie&ftid=0x134c0d34af59f905:0x77080cb9a0d1722e",
+      "Location" : {
+        "Latitude" : "42.622760",
+        "Longitude" : "18.207804"
+      },
+      "Published" : "2017-08-16T10:25:48Z",
+      "Title" : "Mlini, 20207, Croatie",
+      "Updated" : "2017-08-16T10:25:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.094424, 42.650661 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Dubrovnik,+Croatie&ftid=0x134b8ba20835e87d:0x400ad50862bd500",
+      "Location" : {
+        "Latitude" : "42.650661",
+        "Longitude" : "18.094424"
+      },
+      "Published" : "2017-08-16T10:25:35Z",
+      "Title" : "Dubrovnik, Croatie",
+      "Updated" : "2017-08-16T10:25:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.089904, 42.238938 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Virpazar,+Mont%C3%A9n%C3%A9gro&ftid=0x134ddbfac39e046d:0x91bab10976a85000",
+      "Location" : {
+        "Latitude" : "42.238938",
+        "Longitude" : "19.089904"
+      },
+      "Published" : "2017-08-16T10:24:34Z",
+      "Title" : "Virpazar, Monténégro",
+      "Updated" : "2017-08-16T10:24:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.350264, 42.708159 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Trebinje,+Bosnie-Herz%C3%A9govine&ftid=0x134c692fcd572ba3:0x8b3402ed2a9e2b79",
+      "Location" : {
+        "Latitude" : "42.708159",
+        "Longitude" : "18.350264"
+      },
+      "Published" : "2017-08-16T10:23:28Z",
+      "Title" : "Trebinje, Bosnie-Herzégovine",
+      "Updated" : "2017-08-16T10:23:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 18.7148583, 43.3239516 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3571036450835370906",
+      "Location" : {
+        "Address" : "Tjentište, Bosnie-Herzégovine",
+        "Business Name" : "Национални парк Сутјеска",
+        "Country Code" : "BA",
+        "Geo Coordinates" : {
+          "Latitude" : "43.3239516",
+          "Longitude" : "18.7148583"
+        }
+      },
+      "Published" : "2017-08-16T10:20:43Z",
+      "Title" : "Nacionalni park Sutjeska",
+      "Updated" : "2017-08-16T10:20:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 19.122602, 43.155515 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=%C5%BDabljak,+Mont%C3%A9n%C3%A9gro&ftid=0x134d3933f3d5704f:0xb01f40bfcbb85495",
+      "Location" : {
+        "Latitude" : "43.155515",
+        "Longitude" : "19.122602"
+      },
+      "Published" : "2017-08-16T10:20:10Z",
+      "Title" : "Žabljak, Monténégro",
+      "Updated" : "2017-08-16T10:20:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.438646, 44.296009 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Starigrad,+Croatie&ftid=0x476191e627bbcd59:0x400ad50862bc8e0",
+      "Location" : {
+        "Latitude" : "44.296009",
+        "Longitude" : "15.438646"
+      },
+      "Published" : "2017-08-05T17:22:29Z",
+      "Title" : "Starigrad, Croatie",
+      "Updated" : "2017-08-05T17:22:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 15.5820119, 44.8653966 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=367764615831641712",
+      "Location" : {
+        "Address" : "Croatie",
+        "Business Name" : "Lacs de Plitvice",
+        "Country Code" : "HR",
+        "Geo Coordinates" : {
+          "Latitude" : "44.8653966",
+          "Longitude" : "15.5820119"
+        }
+      },
+      "Published" : "2017-08-05T16:59:51Z",
+      "Title" : "Lacs de Plitvice",
+      "Updated" : "2017-08-05T16:59:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.696398, 45.170167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Crikvenica,+51260,+Croatie&ftid=0x47637b84b3704621:0xa632df44b2fda57c",
+      "Location" : {
+        "Latitude" : "45.170167",
+        "Longitude" : "14.696398"
+      },
+      "Published" : "2017-08-05T07:37:50Z",
+      "Title" : "Crikvenica",
+      "Updated" : "2017-08-05T07:37:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 14.5697822, 45.2185704 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3952776133636818074",
+      "Location" : {
+        "Address" : "Hamec1, 51513, Omišalj, Croatie",
+        "Business Name" : "Aéroport de Rijeka",
+        "Country Code" : "HR",
+        "Geo Coordinates" : {
+          "Latitude" : "45.2185704",
+          "Longitude" : "14.5697822"
+        }
+      },
+      "Published" : "2017-08-05T03:21:45Z",
+      "Title" : "Aéroport de Rijeka",
+      "Updated" : "2017-08-05T03:21:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.6630700, 50.0829200 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15400551756249561600",
+      "Location" : {
+        "Address" : "Rue Grande 33, 6687 Bertogne, Belgique",
+        "Business Name" : "Adm. Com. de Bertogne",
+        "Country Code" : "BE",
+        "Geo Coordinates" : {
+          "Latitude" : "50.0829200",
+          "Longitude" : "5.6630700"
+        }
+      },
+      "Published" : "2017-07-26T11:22:48Z",
+      "Title" : "Adm. Com. de Bertogne",
+      "Updated" : "2017-07-26T11:22:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.668177, 50.084866 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Bertogne&ftid=0x47c017d54eee15f3:0xbf13f21f2390030",
+      "Location" : {
+        "Latitude" : "50.084866",
+        "Longitude" : "5.668177"
+      },
+      "Published" : "2017-07-26T11:21:55Z",
+      "Title" : "Bertogne",
+      "Updated" : "2017-07-26T11:21:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.701692, 49.889836 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=La+Chauss%C3%A9e,+6637+Fauvillers&ftid=0x47c01e3b457c7863:0x9c78d1b5a7823fec",
+      "Location" : {
+        "Latitude" : "49.889836",
+        "Longitude" : "5.701692"
+      },
+      "Published" : "2017-07-26T11:21:37Z",
+      "Title" : "La Chaussée, 6637 Fauvillers",
+      "Updated" : "2017-07-26T11:21:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.8089822, 49.6976562 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2473038711808105679",
+      "Location" : {
+        "Address" : "Route de Bastogne 317, 6700 Arlon, Belgique",
+        "Business Name" : "Noiset Garage",
+        "Country Code" : "BE",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6976562",
+          "Longitude" : "5.8089822"
+        }
+      },
+      "Published" : "2017-07-26T11:20:36Z",
+      "Title" : "Noiset Garage",
+      "Updated" : "2017-07-26T11:20:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 8.185997, 48.277486 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Black+Forest,+Germany&ftid=0x4790ec232f1791bd:0xdbe2bec8ae87edf1",
+      "Location" : {
+        "Latitude" : "48.277486",
+        "Longitude" : "8.185997"
+      },
+      "Published" : "2017-07-16T18:36:29Z",
+      "Title" : "Black Forest",
+      "Updated" : "2017-07-16T18:36:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.744359, -23.568033 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=-23.568033,-46.744359",
+      "Location" : {
+        "Latitude" : "-23.568033",
+        "Longitude" : "-46.744359"
+      },
+      "Published" : "2016-09-29T01:50:35Z",
+      "Title" : "-23.568033,-46.744359",
+      "Updated" : "2017-07-16T05:27:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1093763, 49.6071156 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16258848451958936626",
+      "Location" : {
+        "Address" : "1 Boulevard Pierre Dupong, 1430 Luxembourg",
+        "Business Name" : "CCD PARTNERS S.A R.L.",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6071156",
+          "Longitude" : "6.1093763"
+        }
+      },
+      "Published" : "2017-06-06T05:32:54Z",
+      "Title" : "CCD PARTNERS S.A R.L.",
+      "Updated" : "2017-06-06T05:32:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1121585, 49.6226086 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16715295477339316823",
+      "Location" : {
+        "Address" : "162 A Avenue de la Faiencerie, 1511 Luxembourg",
+        "Business Name" : "Université du Luxembourg - Campus Limpertsberg",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6226086",
+          "Longitude" : "6.1121585"
+        }
+      },
+      "Published" : "2017-03-04T09:05:40Z",
+      "Title" : "Université du Luxembourg - Campus Limpertsberg",
+      "Updated" : "2017-03-04T09:05:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.799295, 49.628852 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rue+Albert+1er+126,+6780+Messancy&ftid=0x47eab0b4b44312bd:0xc0db8513e61dc2a9",
+      "Location" : {
+        "Latitude" : "49.628852",
+        "Longitude" : "5.799295"
+      },
+      "Published" : "2017-03-04T08:41:08Z",
+      "Title" : "Rue Albert 1er 126, 6780 Messancy",
+      "Updated" : "2017-03-04T08:41:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.627320, 50.032177 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Flamisoul+885,+6688+Bertogne,+Belgique&ftid=0x47c022dd7c2806b1:0xbe36d70a92da7c5d",
+      "Location" : {
+        "Latitude" : "50.032177",
+        "Longitude" : "5.627320"
+      },
+      "Published" : "2016-11-11T15:35:48Z",
+      "Title" : "Flamisoul 885, 6688 Bertogne",
+      "Updated" : "2017-03-04T08:40:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1287654, 49.5982214 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15429257479175884043",
+      "Location" : {
+        "Address" : "19/21 Rue de Hollerich, 1741 Luxembourg",
+        "Business Name" : "Basic-Fit Salle de Sport Luxembourg Gare",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.5982214",
+          "Longitude" : "6.1287654"
+        }
+      },
+      "Published" : "2017-02-23T16:09:37Z",
+      "Title" : "Basic-Fit Gare",
+      "Updated" : "2017-02-23T16:09:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.465390, 49.606148 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rue+du+Parg%C3%A9+29,+6769+Meix-devant-Virton&ftid=0x47ea938325ab25d7:0xefbc9a66a095ceb8",
+      "Location" : {
+        "Latitude" : "49.606148",
+        "Longitude" : "5.465390"
+      },
+      "Published" : "2017-02-04T08:07:04Z",
+      "Title" : "Rue du Pargé 29, 6769 Meix-devant-Virton",
+      "Updated" : "2017-02-04T08:07:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.826039, 49.593308 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rue+de+Luxembourg+26,+6780+Messancy&ftid=0x47eab6f07a4fddc9:0x866028eb93eedd20",
+      "Location" : {
+        "Latitude" : "49.593308",
+        "Longitude" : "5.826039"
+      },
+      "Published" : "2017-01-29T08:34:42Z",
+      "Title" : "Rue de Luxembourg 26, 6780 Messancy",
+      "Updated" : "2017-01-29T08:34:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1218350, 49.6015900 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7177152364916346056",
+      "Location" : {
+        "Address" : "69 Route d'Esch, Luxembourg",
+        "Business Name" : "Banque Internationale à Luxembourg",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6015900",
+          "Longitude" : "6.1218350"
+        }
+      },
+      "Published" : "2017-01-29T08:33:49Z",
+      "Title" : "Banque Internationale à Luxembourg",
+      "Updated" : "2017-01-29T08:33:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6505263, -23.5578963 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12106646641385972340",
+      "Location" : {
+        "Address" : "Rua Itapeva, 88 - Bela Vista, São Paulo - SP, 01332-000, Brésil",
+        "Business Name" : "Mama Brasil",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5578963",
+          "Longitude" : "-46.6505263"
+        }
+      },
+      "Published" : "2017-01-15T21:26:24Z",
+      "Title" : "Mama Brasil",
+      "Updated" : "2017-01-15T21:26:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -72.0091434, -15.5813902 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6090744275082353621",
+      "Location" : {
+        "Address" : "En la unión de los ríos Colca y Huaruro, Cabanaconde, Pérou",
+        "Business Name" : "Llahuar Lodge",
+        "Country Code" : "PE",
+        "Geo Coordinates" : {
+          "Latitude" : "-15.5813902",
+          "Longitude" : "-72.0091434"
+        }
+      },
+      "Published" : "2016-12-20T12:58:52Z",
+      "Title" : "Llahuar Lodge",
+      "Updated" : "2016-12-20T12:58:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -71.980144, -15.622548 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Cabanaconde+District,+P%C3%A9rou&ftid=0x916a02f70e87e669:0x5433a5a2ddcfeb60",
+      "Location" : {
+        "Latitude" : "-15.622548",
+        "Longitude" : "-71.980144"
+      },
+      "Published" : "2016-12-20T12:58:13Z",
+      "Title" : "Cabanaconde District, Pérou",
+      "Updated" : "2016-12-20T12:58:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.151970, -16.261894 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Huayna+Potos%C3%AD&ftid=0x915efd64fda136ef:0x87e81b46234db18c",
+      "Location" : {
+        "Latitude" : "-16.261894",
+        "Longitude" : "-68.151970"
+      },
+      "Published" : "2016-12-20T12:51:10Z",
+      "Title" : "Huayna Potosí",
+      "Updated" : "2016-12-20T12:51:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -67.535092, -14.429611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rurrenabaque&ftid=0x9161daa8f5dbe9ed:0x99f8c36588516b1",
+      "Location" : {
+        "Latitude" : "-14.429611",
+        "Longitude" : "-67.535092"
+      },
+      "Published" : "2016-12-20T12:49:50Z",
+      "Title" : "Rurrenabaque",
+      "Updated" : "2016-12-20T12:49:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -64.900025, -14.825832 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Trinidad&ftid=0x93dd6e26f4914169:0xdcf5d7769cccd32f",
+      "Location" : {
+        "Latitude" : "-14.825832",
+        "Longitude" : "-64.900025"
+      },
+      "Published" : "2016-12-20T12:49:42Z",
+      "Title" : "Trinidad",
+      "Updated" : "2016-12-20T12:49:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -63.881783, -18.177238 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Samaipata,+Bolivie&ftid=0x93f04383286942e1:0xa95409d6cc310526",
+      "Location" : {
+        "Latitude" : "-18.177238",
+        "Longitude" : "-63.881783"
+      },
+      "Published" : "2016-11-28T18:26:13Z",
+      "Title" : "Samaipata, Bolivie",
+      "Updated" : "2016-11-28T18:26:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -65.256893, -19.049324 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Calvo,+Sucre,+Bolivie&ftid=0x93fbcf372eccec83:0x58856c6a6639f41c",
+      "Location" : {
+        "Latitude" : "-19.049324",
+        "Longitude" : "-65.256893"
+      },
+      "Published" : "2016-11-28T17:47:04Z",
+      "Title" : "Calvo, Sucre, Bolivie",
+      "Updated" : "2016-11-28T17:47:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -65.2466735, -19.0396906 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8322610040668564342",
+      "Location" : {
+        "Address" : "Sucre, Bolivie",
+        "Business Name" : "Terminal de Buses Sucre",
+        "Country Code" : "BO",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0396906",
+          "Longitude" : "-65.2466735"
+        }
+      },
+      "Published" : "2016-11-27T20:40:56Z",
+      "Title" : "Terminal de Buses Sucre",
+      "Updated" : "2016-11-27T20:40:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -65.2559500, -19.0533500 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10730487574812326874",
+      "Location" : {
+        "Address" : "Dalence 609, Sucre, Bolivie",
+        "Business Name" : "Hostelling & BackPackers Señor de las 3 Caidas",
+        "Country Code" : "BO",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0533500",
+          "Longitude" : "-65.2559500"
+        }
+      },
+      "Published" : "2016-11-27T15:07:57Z",
+      "Title" : "Hostelling & BackPackers Señor de las 3 Caidas",
+      "Updated" : "2016-11-27T15:07:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.7114401, -19.0042787 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7537739531557125728",
+      "Location" : {
+        "Address" : "Puerto Quijarro, Bolivie",
+        "Business Name" : "Terminal de Buses",
+        "Country Code" : "BO",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0042787",
+          "Longitude" : "-57.7114401"
+        }
+      },
+      "Published" : "2016-11-26T17:17:28Z",
+      "Title" : "Terminal de Buses",
+      "Updated" : "2016-11-26T17:17:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -65.258940, -19.047677 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Plaza+25+de+Mayo,+Sucre,+Bolivie&ftid=0x93fbcf36656fb06b:0x5e4f23584d3c808f",
+      "Location" : {
+        "Latitude" : "-19.047677",
+        "Longitude" : "-65.258940"
+      },
+      "Published" : "2016-11-24T20:45:15Z",
+      "Title" : "Plaza 25 de Mayo, Sucre, Bolivie",
+      "Updated" : "2016-11-24T20:45:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -65.2927825, -19.0137568 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12621452967169357830",
+      "Location" : {
+        "Address" : "Sucre, Bolivie",
+        "Business Name" : "Aéroport Juana Azurduy de Padilla",
+        "Country Code" : "BO",
+        "Geo Coordinates" : {
+          "Latitude" : "-19.0137568",
+          "Longitude" : "-65.2927825"
+        }
+      },
+      "Published" : "2016-11-24T20:43:03Z",
+      "Title" : "Aéroport Juana Azurduy de Padilla",
+      "Updated" : "2016-11-24T20:43:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -63.1616078, -17.7892208 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15660040884355050802",
+      "Location" : {
+        "Address" : "Avenida Intermodal, Santa Cruz de la Sierra, Bolivie",
+        "Business Name" : "Estacion Bimodal Terrestre y Ferroviaria",
+        "Country Code" : "BO",
+        "Geo Coordinates" : {
+          "Latitude" : "-17.7892208",
+          "Longitude" : "-63.1616078"
+        }
+      },
+      "Published" : "2016-11-24T20:32:09Z",
+      "Title" : "Estacion Bimodal Terrestre y Ferroviaria",
+      "Updated" : "2016-11-24T20:32:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.688496, -23.595972 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Gomes+de+Carvalho,+1609+-+Vila+Olimpia,+S%C3%A3o+Paulo+-+SP&ftid=0x94ce5748721e377d:0xe0a6a0aeac07c3cf",
+      "Location" : {
+        "Latitude" : "-23.595972",
+        "Longitude" : "-46.688496"
+      },
+      "Published" : "2016-11-23T11:21:59Z",
+      "Title" : "Rua Gomes de Carvalho, 1609, São Paulo - SP",
+      "Updated" : "2016-11-23T11:21:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.619154, -23.589910 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Av.+Dr.+Ricardo+Jafet,+1501+-+Vila+S%C3%A3o+Jos%C3%A9,+S%C3%A3o+Paulo+-+SP,+04123-030&ftid=0x94ce5bdb28c820dd:0x933c570812a48743",
+      "Location" : {
+        "Latitude" : "-23.589910",
+        "Longitude" : "-46.619154"
+      },
+      "Published" : "2016-11-23T11:20:32Z",
+      "Title" : "Avenida Doutor Ricardo Jafet, 1501, São Paulo - SP, 04123-030",
+      "Updated" : "2016-11-23T11:20:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.697150, -23.528075 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Tito,+542+-+Lapa,+S%C3%A3o+Paulo+-+SP&ftid=0x94cef876dffabf73:0x9726ae7901ad7b0f",
+      "Location" : {
+        "Latitude" : "-23.528075",
+        "Longitude" : "-46.697150"
+      },
+      "Published" : "2016-11-23T11:05:36Z",
+      "Title" : "Rua Tito, 542 - Lapa, São Paulo - SP",
+      "Updated" : "2016-11-23T11:05:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6675254, -23.5260220 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13995966953464949467",
+      "Location" : {
+        "Address" : "Avenida Auro Soares de Moura Andrade, 664 - Barra Funda, São Paulo - SP, 01154-060, Brésil",
+        "Business Name" : "Terminal Rodoviário Barra Funda",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5260220",
+          "Longitude" : "-46.6675254"
+        }
+      },
+      "Published" : "2016-11-23T09:50:39Z",
+      "Title" : "Palmeiras Barra Funda",
+      "Updated" : "2016-11-23T09:50:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6395193, -23.5703716 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1869791322828757580",
+      "Location" : {
+        "Address" : "Rua Vergueiro, 943 - Liberdade, São Paulo - SP, 01504-001, Brésil",
+        "Business Name" : "Netshoes",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5703716",
+          "Longitude" : "-46.6395193"
+        }
+      },
+      "Published" : "2016-11-23T09:49:45Z",
+      "Title" : "Grupo Netshoes",
+      "Updated" : "2016-11-23T09:49:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.750517, -23.568270 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Av.+Otac%C3%ADlio+Tomanik,+1343+-+Vila+Polopoli,+S%C3%A3o+Paulo+-+SP,+05363-101,+Br%C3%A9sil&ftid=0x94ce55e08be5cb21:0x7268bf8c04e8e9eb",
+      "Location" : {
+        "Latitude" : "-23.568270",
+        "Longitude" : "-46.750517"
+      },
+      "Published" : "2016-11-19T23:51:13Z",
+      "Title" : "Avenida Otacílio Tomanik, 1343 - Vila Polopoli, São Paulo - SP, 05363-101, Brésil",
+      "Updated" : "2016-11-19T23:51:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.673923, -16.555616 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Tiwanaku,+Bolivie&ftid=0x915ebd0952400045:0x89fec49f43cd99dd",
+      "Location" : {
+        "Latitude" : "-16.555616",
+        "Longitude" : "-68.673923"
+      },
+      "Published" : "2016-11-18T16:55:59Z",
+      "Title" : "Tiwanaku",
+      "Updated" : "2016-11-18T16:55:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.121835, 49.601590 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=69+Route+d'Esch,+L-2953+Luxembourg&ftid=0x479548d7f03b068b:0xd8f2ceaef8f2d839",
+      "Location" : {
+        "Latitude" : "49.601590",
+        "Longitude" : "6.121835"
+      },
+      "Published" : "2016-11-17T16:55:41Z",
+      "Title" : "69 Route d'Esch, L-2953 Luxembourg",
+      "Updated" : "2016-11-17T16:55:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -65.261961, -19.019585 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Sucre,+Bolivie&ftid=0x93fbc8bc8187832f:0xbd9df259af1bee96",
+      "Location" : {
+        "Latitude" : "-19.019585",
+        "Longitude" : "-65.261961"
+      },
+      "Published" : "2016-11-16T23:12:54Z",
+      "Title" : "Sucre, Bolivie",
+      "Updated" : "2016-11-16T23:12:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.1221987, 49.6170496 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1326474343746686784",
+      "Location" : {
+        "Address" : "5 Allée Scheffer, 2520 Luxembourg",
+        "Business Name" : "CACEIS",
+        "Country Code" : "LU",
+        "Geo Coordinates" : {
+          "Latitude" : "49.6170496",
+          "Longitude" : "6.1221987"
+        }
+      },
+      "Published" : "2016-11-10T11:30:02Z",
+      "Title" : "CACEIS",
+      "Updated" : "2016-11-10T11:30:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.845839, -32.889459 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Mendoza,+D%C3%A9partement+Capital,+Province+de+Mendoza,+Argentine&ftid=0x967e093ec45179bf:0x205a78f6d20efa3a",
+      "Location" : {
+        "Latitude" : "-32.889459",
+        "Longitude" : "-68.845839"
+      },
+      "Published" : "2016-11-06T17:33:48Z",
+      "Title" : "Mendoza, Département Capital, Province de Mendoza, Argentine",
+      "Updated" : "2016-11-06T17:33:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -63.156085, -17.814582 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Santa+Cruz+de+la+Sierra,+Bolivie&ftid=0x93f1e81ca7c01a63:0x5c8b0a53a467611b",
+      "Location" : {
+        "Latitude" : "-17.814582",
+        "Longitude" : "-63.156085"
+      },
+      "Published" : "2016-11-06T17:33:30Z",
+      "Title" : "Santa Cruz de la Sierra, Bolivie",
+      "Updated" : "2016-11-06T17:33:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.636134, -23.547538 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Pra%C3%A7a+do+Patriarca,+56+-+S%C3%A9,+S%C3%A3o+Paulo+-+SP,+01002-010,+Br%C3%A9sil&ftid=0x94ce585497f82ab7:0xb004577f42ccd83a",
+      "Location" : {
+        "Latitude" : "-23.547538",
+        "Longitude" : "-46.636134"
+      },
+      "Published" : "2016-11-06T17:26:43Z",
+      "Title" : "Praça do Patriarca, 56 - Sé, São Paulo - SP, 01002-010, Brésil",
+      "Updated" : "2016-11-06T17:26:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6139908, -23.5157027 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5894998120272335899",
+      "Location" : {
+        "Address" : "Avenida Otto Baumgart, 500 - Vila Guilherme, São Paulo - SP, 02050-010, Brésil",
+        "Business Name" : "Decathlon",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5157027",
+          "Longitude" : "-46.6139908"
+        }
+      },
+      "Published" : "2016-11-05T16:38:32Z",
+      "Title" : "Decathlon",
+      "Updated" : "2016-11-05T16:38:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.7691662, -23.5830215 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17858836762605869031",
+      "Location" : {
+        "Address" : "Rodovia Raposo Tavares, 6008 - Conjunto Residencial Butantã, São Paulo - SP, 05576-000, Brésil",
+        "Business Name" : "Decathlon Raposo Tavares",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5830215",
+          "Longitude" : "-46.7691662"
+        }
+      },
+      "Published" : "2016-11-04T19:17:09Z",
+      "Title" : "Decathlon",
+      "Updated" : "2016-11-04T19:17:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.953959, -18.128260 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Sajama+National+Park+and+Natural+Integrated+Management+Area,+Bolivie&ftid=0x915a1dfa719b6119:0x58c801473a179d8f",
+      "Location" : {
+        "Latitude" : "-18.128260",
+        "Longitude" : "-68.953959"
+      },
+      "Published" : "2016-10-31T22:15:52Z",
+      "Title" : "Sajama National Park and Natural Integrated Management Area, Bolivie",
+      "Updated" : "2016-10-31T22:15:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.119294, -16.489689 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=La+Paz,+Bolivie&ftid=0x915edf0a04f5a40f:0x57dbfc76b4458ab3",
+      "Location" : {
+        "Latitude" : "-16.489689",
+        "Longitude" : "-68.119294"
+      },
+      "Published" : "2016-10-31T22:14:53Z",
+      "Title" : "La Paz, Bolivie",
+      "Updated" : "2016-10-31T22:14:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -68.116667, -19.716667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Uyuni,+Bolivie&ftid=0x9155d56ad72dc8f5:0xc1250bff608e00dc",
+      "Location" : {
+        "Latitude" : "-19.716667",
+        "Longitude" : "-68.116667"
+      },
+      "Published" : "2016-10-31T22:14:19Z",
+      "Title" : "Uyuni, Bolivie",
+      "Updated" : "2016-10-31T22:14:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -69.335400, -15.925400 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Lac+Titicaca&ftid=0x915d9b22f6af7c75:0xf682724d4df71dc",
+      "Location" : {
+        "Latitude" : "-15.925400",
+        "Longitude" : "-69.335400"
+      },
+      "Published" : "2016-10-31T22:13:40Z",
+      "Title" : "Lac Titicaca",
+      "Updated" : "2016-10-31T22:13:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.688857, -23.554265 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rua+Harmonia,+457+-+Sumarezinho,+S%C3%A3o+Paulo+-+SP,+Br%C3%A9sil&ftid=0x94ce5796391446d7:0x7b5b0549999883f1",
+      "Location" : {
+        "Latitude" : "-23.554265",
+        "Longitude" : "-46.688857"
+      },
+      "Published" : "2016-10-22T20:24:53Z",
+      "Title" : "Rua Harmonia, 457 - Sumarezinho, São Paulo - SP, Brésil",
+      "Updated" : "2016-10-22T20:24:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6879512, -23.5556601 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9880022382214298051",
+      "Location" : {
+        "Address" : "Rua Harmonia, 271 - Vila Madalena, São Paulo - SP, 05435-001, Brésil",
+        "Business Name" : "Alto da Harmonia",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5556601",
+          "Longitude" : "-46.6879512"
+        }
+      },
+      "Published" : "2016-10-22T20:17:36Z",
+      "Title" : "Alto da Harmonia",
+      "Updated" : "2016-10-22T20:17:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -45.366481, -23.815839 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ilhabela,+%C3%89tat+de+S%C3%A3o+Paulo&ftid=0x94d299a1e1b58951:0xdb1cb1ae3f4ba322",
+      "Location" : {
+        "Latitude" : "-23.815839",
+        "Longitude" : "-45.366481"
+      },
+      "Published" : "2016-10-13T18:10:57Z",
+      "Title" : "Ilhabela, SP",
+      "Updated" : "2016-10-13T18:10:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -58.856482, -29.177547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=RN12,+Puerto+Iguaz%C3%BA,+Misi%C3%B3nes,+Argentine&ftid=0x95b127b91b639589:0x19f72c946f4a4390",
+      "Location" : {
+        "Latitude" : "-29.177547",
+        "Longitude" : "-58.856482"
+      },
+      "Published" : "2016-10-08T11:17:09Z",
+      "Title" : "Ruta Nacional 12, Argentine",
+      "Updated" : "2016-10-08T11:17:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.570948, -25.598430 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6933361737368675783",
+      "Location" : {
+        "Latitude" : "-25.598430",
+        "Longitude" : "-54.570948"
+      },
+      "Published" : "2016-10-08T11:15:27Z",
+      "Title" : "Puerto Iguazú",
+      "Updated" : "2016-10-08T11:15:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.570948, -25.598430 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6933361737368675783",
+      "Location" : {
+        "Latitude" : "-25.598430",
+        "Longitude" : "-54.570948"
+      },
+      "Published" : "2016-10-08T11:15:27Z",
+      "Title" : "Puerto Iguazú",
+      "Updated" : "2016-10-08T11:15:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -51.4052000, -23.3656780 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=360353659978763772",
+      "Location" : {
+        "Address" : "Rodovia Melo Peixoto Br-369, 181, Paraná, 86703-735, Brésil",
+        "Business Name" : "Posto Grande Parada",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.3656780",
+          "Longitude" : "-51.4052000"
+        }
+      },
+      "Published" : "2016-10-07T05:21:45Z",
+      "Title" : "Posto Grande Parada",
+      "Updated" : "2016-10-07T05:21:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.563510, -25.520586 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Av.+Costa+e+Silva,+1601+-+Parque+Pres.+1,+Foz+do+Igua%C3%A7u+-+PR,+85863-000,+Br%C3%A9sil&ftid=0x94f690f51acb7583:0x21085a0366cee33a",
+      "Location" : {
+        "Latitude" : "-25.520586",
+        "Longitude" : "-54.563510"
+      },
+      "Published" : "2016-10-06T18:11:35Z",
+      "Title" : "Avenida Costa e Silva, 1601 - Parque Presidente 1, Foz do Iguaçu - PR, 85863-000, Brésil",
+      "Updated" : "2016-10-06T18:11:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.655914, -23.557628 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Ant%C3%B4nio+Carlos,+106+-+Consola%C3%A7%C3%A3o,+S%C3%A3o+Paulo+-+SP,+01309-010&ftid=0x94ce59cb7ee59871:0x6a8031e2d0de2638",
+      "Location" : {
+        "Latitude" : "-23.557628",
+        "Longitude" : "-46.655914"
+      },
+      "Published" : "2016-10-04T16:10:48Z",
+      "Title" : "Rua Antônio Carlos, 106 - Consolação, São Paulo - SP, 01309-010",
+      "Updated" : "2016-10-04T16:10:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.5665997, -25.6045885 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17454514518278815965",
+      "Location" : {
+        "Address" : "Calle Andresito y Caraguatá, 3370 Puerto Iguazú, Argentine",
+        "Business Name" : "Naipi Apart",
+        "Country Code" : "AR",
+        "Geo Coordinates" : {
+          "Latitude" : "-25.6045885",
+          "Longitude" : "-54.5665997"
+        }
+      },
+      "Published" : "2016-09-29T22:31:59Z",
+      "Title" : "Naipi Apart",
+      "Updated" : "2016-09-29T22:31:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.256868, -23.994844 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Guaruj%C3%A1,+%C3%89tat+de+S%C3%A3o+Paulo,+Br%C3%A9sil&ftid=0x94ce00420b733eab:0xf42377f671ac1314",
+      "Location" : {
+        "Latitude" : "-23.994844",
+        "Longitude" : "-46.256868"
+      },
+      "Published" : "2016-09-29T01:52:22Z",
+      "Title" : "Guarujá, SP, Brésil",
+      "Updated" : "2016-09-29T01:52:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.195582, -34.908874 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Wilson+Ferreira+Aldunate+1182,+11100+Montevideo,+Uruguay&ftid=0x959f81d3197112c5:0xf17deda311843d97",
+      "Location" : {
+        "Latitude" : "-34.908874",
+        "Longitude" : "-56.195582"
+      },
+      "Published" : "2016-09-19T11:18:55Z",
+      "Title" : "Wilson Ferreira Aldunate 1182, Montevideo, Uruguay",
+      "Updated" : "2016-09-19T11:18:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1498775, -34.8998075 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5225574111163035929",
+      "Location" : {
+        "Address" : "Líber Arce, 11600 Montevideo, Uruguay",
+        "Business Name" : "Dulce Juana pastelería",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.8998075",
+          "Longitude" : "-56.1498775"
+        }
+      },
+      "Published" : "2016-09-18T13:13:23Z",
+      "Title" : "Dulce Juana pastelería",
+      "Updated" : "2016-09-18T13:13:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.861754, -34.197913 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=27200+Castillos,+Rocha,+Uruguay&ftid=0x95734ee743068c2b:0x455e856957bffbb8",
+      "Location" : {
+        "Latitude" : "-34.197913",
+        "Longitude" : "-53.861754"
+      },
+      "Published" : "2016-09-14T19:23:14Z",
+      "Title" : "Castillos, Rocha, Uruguay",
+      "Updated" : "2016-09-14T19:23:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.5405159, -34.0449242 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10469260553808938505",
+      "Location" : {
+        "Address" : "27204 Angostura, Rocha Department, Uruguay",
+        "Business Name" : "Village Pharmacy",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.0449242",
+          "Longitude" : "-53.5405159"
+        }
+      },
+      "Published" : "2016-09-12T20:45:57Z",
+      "Title" : "Farmacia De La Aldea",
+      "Updated" : "2016-09-12T20:45:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.5619763, -34.0368773 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3566085021162192944",
+      "Location" : {
+        "Address" : "27204 Punta del Diablo, Rocha Department, Uruguay",
+        "Business Name" : "Terminal de Omnibus PDD",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.0368773",
+          "Longitude" : "-53.5619763"
+        }
+      },
+      "Published" : "2016-09-12T03:35:55Z",
+      "Title" : "Terminal de Omnibus PDD",
+      "Updated" : "2016-09-12T03:35:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.1663727, -34.8938383 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15889276968058936630",
+      "Location" : {
+        "Address" : "Bulevar General Artigas 1825, 11600 Montevideo, Uruguay",
+        "Business Name" : "Terminal Tres Cruces",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.8938383",
+          "Longitude" : "-56.1663727"
+        }
+      },
+      "Published" : "2016-09-11T15:26:49Z",
+      "Title" : "Tres Cruces",
+      "Updated" : "2016-09-11T15:26:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.548559, -34.036543 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Avenida+Central,+27204+Punta+del+Diablo,+Rocha,+Uruguay&ftid=0x95732d763c7670b5:0xffa4d9965072273b",
+      "Location" : {
+        "Latitude" : "-34.036543",
+        "Longitude" : "-53.548559"
+      },
+      "Published" : "2016-09-09T23:38:46Z",
+      "Title" : "Avenida Central, Punta del Diablo, Rocha, Uruguay",
+      "Updated" : "2016-09-09T23:38:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.8386308, -34.4622298 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5328063815730732061",
+      "Location" : {
+        "Address" : "Aparicio Saravia 633, Colonia Del Sacramento, Departamento de Colonia, Uruguay",
+        "Business Name" : "Rodriguez Flores",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.4622298",
+          "Longitude" : "-57.8386308"
+        }
+      },
+      "Published" : "2016-09-08T17:56:28Z",
+      "Title" : "Rodriguez Flores",
+      "Updated" : "2016-09-08T17:56:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.783028, -34.275035 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=27202+Aguas+Dulces,+Rocha,+Uruguay&ftid=0x957346fc27d70d81:0x22e22e2e61ab8257",
+      "Location" : {
+        "Latitude" : "-34.275035",
+        "Longitude" : "-53.783028"
+      },
+      "Published" : "2016-09-08T11:15:34Z",
+      "Title" : "Aguas Dulces, Rocha, Uruguay",
+      "Updated" : "2016-09-08T11:15:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.793882, -34.336668 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=27202+Barra+de+Valizas,+Rocha,+Uruguay&ftid=0x95734115cff3bcf7:0xb1df708f9ea0e00",
+      "Location" : {
+        "Latitude" : "-34.336668",
+        "Longitude" : "-53.793882"
+      },
+      "Published" : "2016-09-08T11:15:25Z",
+      "Title" : "Barra de Valizas, Rocha, Uruguay",
+      "Updated" : "2016-09-08T11:15:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.9232902, -34.7935059 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18431005067931127996",
+      "Location" : {
+        "Address" : "Jose Enrique Rodo, 20400 San Carlos, Departamento de Maldonado, Uruguay",
+        "Business Name" : "Terminal San Carlos",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.7935059",
+          "Longitude" : "-54.9232902"
+        }
+      },
+      "Published" : "2016-09-08T11:14:04Z",
+      "Title" : "Terminal San Carlos",
+      "Updated" : "2016-09-08T11:14:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -51.1728465, -29.1629371 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6772804791554635859",
+      "Location" : {
+        "Address" : "Rua Ernesto Alves, 1341 - Centro - Centro, Caxias do Sul - RS, 95020-360, Brésil",
+        "Business Name" : "Caxias do Sul Bus Station",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-29.1629371",
+          "Longitude" : "-51.1728465"
+        }
+      },
+      "Published" : "2016-09-07T16:15:44Z",
+      "Title" : "Estação Rodoviária de Caxias do Sul",
+      "Updated" : "2016-09-07T16:15:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -50.1976012, -26.3766902 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17375943405373416003",
+      "Location" : {
+        "Address" : "BR-116, Km 58, S/n - Matinhos, Papanduva - SC, 89370-000, Brésil",
+        "Business Name" : "Restaurante e Lanchonete Matinhos",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-26.3766902",
+          "Longitude" : "-50.1976012"
+        }
+      },
+      "Published" : "2016-09-07T08:52:41Z",
+      "Title" : "Restaurante e Lanchonete Matinhos",
+      "Updated" : "2016-09-07T08:52:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -51.217658, -30.034647 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Porto+Alegre,+Rio+Grande+do+Sul,+Br%C3%A9sil&ftid=0x95199cd2566acb1d:0x603111a89f87e91f",
+      "Location" : {
+        "Latitude" : "-30.034647",
+        "Longitude" : "-51.217658"
+      },
+      "Published" : "2016-09-05T19:56:08Z",
+      "Title" : "Porto Alegre, Rio Grande do Sul, Brésil",
+      "Updated" : "2016-09-05T19:56:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.846101, -34.471421 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=18+de+Julio,+70000+Col+Del+Sacramento,+Departamento+de+Colonia,+Uruguay&ftid=0x95a31267efe913f1:0x30f42566a3c23a8e",
+      "Location" : {
+        "Latitude" : "-34.471421",
+        "Longitude" : "-57.846101"
+      },
+      "Published" : "2016-09-05T01:58:41Z",
+      "Title" : "18 de Julio, Colonia Del Sacramento, Departamento de Colonia, Uruguay",
+      "Updated" : "2016-09-05T01:58:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.663812, -23.580448 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Ibirapuera,+S%C3%A3o+Paulo+-+%C3%89tat+de+S%C3%A3o+Paulo,+Br%C3%A9sil&ftid=0x94ce59e6f06b0f89:0x43617829f701baf6",
+      "Location" : {
+        "Latitude" : "-23.580448",
+        "Longitude" : "-46.663812"
+      },
+      "Published" : "2016-09-04T13:42:11Z",
+      "Title" : "Ibirapuera, São Paulo - SP, Brésil",
+      "Updated" : "2016-09-04T13:42:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.455282, -33.692754 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Chuy,+Rocha,+Uruguay&ftid=0x950cde449df97365:0xfa92d218106b6015",
+      "Location" : {
+        "Latitude" : "-33.692754",
+        "Longitude" : "-53.455282"
+      },
+      "Published" : "2016-09-04T04:35:46Z",
+      "Title" : "Chuy, Rocha Department, Uruguay",
+      "Updated" : "2016-09-04T04:35:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -48.548219, -27.594870 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Florian%C3%B3polis+-+Santa+Catarina&ftid=0x952749bfe17eb89f:0xd3d6e34c9fba2a18",
+      "Location" : {
+        "Latitude" : "-27.594870",
+        "Longitude" : "-48.548219"
+      },
+      "Published" : "2016-09-04T04:12:59Z",
+      "Title" : "Florianópolis - Santa Catarina",
+      "Updated" : "2016-09-04T04:12:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -56.164531, -34.901113 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Montevideo,+Uruguay&ftid=0x959f80ffc63bf7d3:0x6b321b2e355bec99",
+      "Location" : {
+        "Latitude" : "-34.901113",
+        "Longitude" : "-56.164531"
+      },
+      "Published" : "2016-08-31T16:51:45Z",
+      "Title" : "Montevideo, Uruguay",
+      "Updated" : "2016-08-31T16:51:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.927589, -34.797268 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=20400+San+Carlos,+Maldonado,+Uruguay&ftid=0x957518f0a4624b6f:0x1060a4e49e00a65c",
+      "Location" : {
+        "Latitude" : "-34.797268",
+        "Longitude" : "-54.927589"
+      },
+      "Published" : "2016-08-31T16:51:28Z",
+      "Title" : "San Carlos, Maldonado, Uruguay",
+      "Updated" : "2016-08-31T16:51:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -57.833910, -34.460719 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=70000+Col+Del+Sacramento,+Colonia,+Uruguay&ftid=0x95a312689e9baadf:0xd805b8023fcf8708",
+      "Location" : {
+        "Latitude" : "-34.460719",
+        "Longitude" : "-57.833910"
+      },
+      "Published" : "2016-08-31T16:50:53Z",
+      "Title" : "Colonia Del Sacramento, Departamento de Colonia, Uruguay",
+      "Updated" : "2016-08-31T16:50:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.183008, -34.655915 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=La+Paloma,+Rocha,+Uruguay&ftid=0x95748352a7a7c171:0xec8cc6e86537f417",
+      "Location" : {
+        "Latitude" : "-34.655915",
+        "Longitude" : "-54.183008"
+      },
+      "Published" : "2016-08-31T15:47:10Z",
+      "Title" : "La Paloma, Rocha, Uruguay",
+      "Updated" : "2016-08-31T15:47:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.547332, -34.042339 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Punta+del+Diablo,+Rocha,+Uruguay&ftid=0x95732d9bf6d89ed7:0xd1d3cc04626ecb77",
+      "Location" : {
+        "Latitude" : "-34.042339",
+        "Longitude" : "-53.547332"
+      },
+      "Published" : "2016-08-31T15:46:31Z",
+      "Title" : "Punta del Diablo, Rocha, Uruguay",
+      "Updated" : "2016-08-31T15:46:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.5617105, -33.9996157 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10444292071104791780",
+      "Location" : {
+        "Address" : "Km 302, 9, Rocha, Uruguay",
+        "Business Name" : "Santa Teresa National Park",
+        "Country Code" : "UY",
+        "Geo Coordinates" : {
+          "Latitude" : "-33.9996157",
+          "Longitude" : "-53.5617105"
+        }
+      },
+      "Published" : "2016-08-31T15:46:31Z",
+      "Title" : "Santa Teresa National Park",
+      "Updated" : "2016-08-31T15:46:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -53.794941, -34.402302 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=27202+Cabo+Polonio,+Rocha,+Uruguay&ftid=0x95736a6e20d7613d:0xb3cc9db70f99a5a0",
+      "Location" : {
+        "Latitude" : "-34.402302",
+        "Longitude" : "-53.794941"
+      },
+      "Published" : "2016-08-31T15:46:12Z",
+      "Title" : "Cabo Polonio, Uruguay",
+      "Updated" : "2016-08-31T15:46:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.645145, -34.835915 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jos%C3%A9+Ignacio,+Maldonado,+Uruguay&ftid=0x9574fad494a2c013:0xa653d8ad8deac302",
+      "Location" : {
+        "Latitude" : "-34.835915",
+        "Longitude" : "-54.645145"
+      },
+      "Published" : "2016-08-31T15:45:29Z",
+      "Title" : "José Ignacio, Maldonado, Uruguay",
+      "Updated" : "2016-08-31T15:45:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -54.928150, -34.936879 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Punta+del+Este,+Maldonado,+Uruguay&ftid=0x9575059ec8c40bbd:0x9bdd0183c2d3cf93",
+      "Location" : {
+        "Latitude" : "-34.936879",
+        "Longitude" : "-54.928150"
+      },
+      "Published" : "2016-08-31T15:45:20Z",
+      "Title" : "Punta del Este, Maldonado, Uruguay",
+      "Updated" : "2016-08-31T15:45:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -55.042447, -34.903038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Punta+Ballena,+20003+Punta+Ballena,+Maldonado,+Uruguay&ftid=0x9575115db8ebdea3:0x92483f6807b453a3",
+      "Location" : {
+        "Latitude" : "-34.903038",
+        "Longitude" : "-55.042447"
+      },
+      "Published" : "2016-08-31T15:45:00Z",
+      "Title" : "Punta Ballena",
+      "Updated" : "2016-08-31T15:45:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -58.4401650, -34.5947680 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2480886357875926251",
+      "Location" : {
+        "Address" : "Serrano 698, C1414DEN CABA, Argentine",
+        "Business Name" : "LA CABRERA",
+        "Country Code" : "AR",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.5947680",
+          "Longitude" : "-58.4401650"
+        }
+      },
+      "Published" : "2016-08-30T19:35:02Z",
+      "Title" : "LA CABRERA",
+      "Updated" : "2016-08-30T19:35:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -58.4338740, -34.5834550 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17346118277582696462",
+      "Location" : {
+        "Address" : "Humboldt 1892, C1414CTT CABA, Argentine",
+        "Business Name" : "La Dorita",
+        "Country Code" : "AR",
+        "Geo Coordinates" : {
+          "Latitude" : "-34.5834550",
+          "Longitude" : "-58.4338740"
+        }
+      },
+      "Published" : "2016-08-30T19:34:19Z",
+      "Title" : "La Dorita",
+      "Updated" : "2016-08-30T19:34:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.7289977, -23.5587404 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16991249575431702729",
+      "Location" : {
+        "Address" : "Avenida Professor Luciano Gualberto, 908 - Butantã, São Paulo - SP, 05508-010, Brésil",
+        "Business Name" : "Faculdade de Economia, Administração e Contabilidade - FEA - USP",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5587404",
+          "Longitude" : "-46.7289977"
+        }
+      },
+      "Published" : "2016-08-29T12:41:14Z",
+      "Title" : "Faculdade de Economia, Administração e Contabilidade - FEA - USP",
+      "Updated" : "2016-08-29T12:41:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.2143312, -22.9849249 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9083776995387011808",
+      "Location" : {
+        "Address" : "Rua Paul Redfern, 37 - Ipanema, Rio de Janeiro - RJ, 22410-080, Brésil",
+        "Business Name" : "Ipanema Beach Hostel",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-22.9849249",
+          "Longitude" : "-43.2143312"
+        }
+      },
+      "Published" : "2016-08-21T14:17:32Z",
+      "Title" : "Ipanema Beach Hostel",
+      "Updated" : "2016-08-21T14:17:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.183883, -22.968423 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rua+Hil%C3%A1rio+de+Gouv%C3%AAia+-+Copacabana,+Rio+de+Janeiro+-+RJ,+22040-020,+Br%C3%A9sil&ftid=0x9bd55085d0f75f:0x4f46e05568d5dfa1",
+      "Location" : {
+        "Latitude" : "-22.968423",
+        "Longitude" : "-43.183883"
+      },
+      "Published" : "2016-08-21T03:50:47Z",
+      "Title" : "Rua Hilário de Gouvêia - Copacabana, Rio de Janeiro - RJ, 22040-020, Brésil",
+      "Updated" : "2016-08-21T03:50:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -43.188772, -22.967223 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Rua+Figueiredo+de+Magalh%C3%A3es,+643+-+Copacabana,+Rio+de+Janeiro+-+RJ,+22031-011,+Br%C3%A9sil&ftid=0x9bd55b79aefd13:0x3881d41a035eb7d",
+      "Location" : {
+        "Latitude" : "-22.967223",
+        "Longitude" : "-43.188772"
+      },
+      "Published" : "2016-08-19T02:43:39Z",
+      "Title" : "Rua Figueiredo de Magalhães, 643 - Copacabana, Rio de Janeiro - RJ, 22031-011, Brésil",
+      "Updated" : "2016-08-19T02:43:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.685739, -23.555230 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Medeiros+de+Albuquerque,+256+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05436-060,+Br%C3%A9sil&ftid=0x94ce5797478fabc9:0x4293bb9ffc0879c",
+      "Location" : {
+        "Latitude" : "-23.555230",
+        "Longitude" : "-46.685739"
+      },
+      "Published" : "2016-08-14T17:57:39Z",
+      "Title" : "Rua Medeiros de Albuquerque, 256 - Pinheiros, São Paulo - SP, 05436-060, Brésil",
+      "Updated" : "2016-08-14T17:57:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.676779, -23.558040 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Alves+Guimar%C3%A3es,+485+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+Br%C3%A9sil&ftid=0x94ce5784758bda41:0x67a02528c568dce0",
+      "Location" : {
+        "Latitude" : "-23.558040",
+        "Longitude" : "-46.676779"
+      },
+      "Published" : "2016-08-12T22:32:14Z",
+      "Title" : "Rua Alves Guimarães, 485 - Pinheiros, São Paulo - SP, Brésil",
+      "Updated" : "2016-08-12T22:32:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.720469, -23.563230 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Av.+Prof.+Lineu+Prestes,+159+-+Butant%C3%A3,+S%C3%A3o+Paulo+-+SP,+05508-000,+Br%C3%A9sil&ftid=0x94ce56467122a4d9:0xfdee33dc974e0262",
+      "Location" : {
+        "Latitude" : "-23.563230",
+        "Longitude" : "-46.720469"
+      },
+      "Published" : "2016-08-12T13:14:25Z",
+      "Title" : "Avenida Professor Lineu Prestes, 159, São Paulo - SP, 05508-000, Brésil",
+      "Updated" : "2016-08-12T13:14:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.981813, -24.300779 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Albuquerque,+256+-+Cidade+Nova+Peru%C3%ADbe,+Peru%C3%ADbe+-+SP,+11750-000,+Br%C3%A9sil&ftid=0x94d0261fb849f6b9:0x407aa504bc2e0ba1",
+      "Location" : {
+        "Latitude" : "-24.300779",
+        "Longitude" : "-46.981813"
+      },
+      "Published" : "2016-08-10T22:53:29Z",
+      "Title" : "Rua Albuquerque, 256 - Cidade Nova Peruíbe, Peruíbe - SP, 11750-000, Brésil",
+      "Updated" : "2016-08-10T22:53:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.6608180, -23.5325820 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=290345353864127528",
+      "Location" : {
+        "Address" : "Avenida Pacaembu, 715 - Sala 512 - Pacaembu, São Paulo - SP, 01234-001, Brésil",
+        "Business Name" : "DEFIS",
+        "Country Code" : "BR",
+        "Geo Coordinates" : {
+          "Latitude" : "-23.5325820",
+          "Longitude" : "-46.6608180"
+        }
+      },
+      "Published" : "2016-08-08T14:59:36Z",
+      "Title" : "Receita Federal do Brasil",
+      "Updated" : "2016-08-08T14:59:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.687158, -23.562041 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Fradique+Coutinho,+540+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+Br%C3%A9sil&ftid=0x94ce579ed6d408f3:0xf84b1f6a0f66e5dc",
+      "Location" : {
+        "Latitude" : "-23.562041",
+        "Longitude" : "-46.687158"
+      },
+      "Published" : "2016-08-08T14:48:11Z",
+      "Title" : "Rua Fradique Coutinho, 540 - Pinheiros, São Paulo - SP, Brésil",
+      "Updated" : "2016-08-08T14:48:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.692108, -23.567935 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+dos+Pinheiros,+1530+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05422-002,+Br%C3%A9sil&ftid=0x94ce57a07e1c9791:0x8d070cb7da941962",
+      "Location" : {
+        "Latitude" : "-23.567935",
+        "Longitude" : "-46.692108"
+      },
+      "Published" : "2016-08-05T16:28:48Z",
+      "Title" : "Rua dos Pinheiros, 1530 - Pinheiros, São Paulo - SP, 05422-002, Brésil",
+      "Updated" : "2016-08-05T16:28:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.715876, -23.542768 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Condom%C3%ADnio+Conjunto+Residencial+Alto+de+Pinheiros+-+Av.+Di%C3%B3genes+Ribeiro+de+Lima,+2000+-+Alto+de+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05458-001,+Br%C3%A9sil&ftid=0x94ce562e93134c61:0x181e103dc168d3b4",
+      "Location" : {
+        "Latitude" : "-23.542768",
+        "Longitude" : "-46.715876"
+      },
+      "Published" : "2016-08-05T03:51:02Z",
+      "Title" : "Condomínio Conjunto Residencial Alto de Pinheiros - Avenida Diógenes Ribeiro de Lima, 2000 - Alto de Pinheiros, São Paulo - SP, 05458-001, Brésil",
+      "Updated" : "2016-08-05T03:51:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.683419, -23.561038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Condom%C3%ADnio+Edif%C3%ADcio+Jardim+das+Antilhas+-+R.+Teodoro+Sampaio,+1424+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05406-100,+Br%C3%A9sil&ftid=0x94ce579c62cc5251:0x2b36742147c71ec6",
+      "Location" : {
+        "Latitude" : "-23.561038",
+        "Longitude" : "-46.683419"
+      },
+      "Published" : "2016-08-04T22:52:38Z",
+      "Title" : "Condomínio Edifício Jardim das Antilhas - Rua Teodoro Sampaio, 1424 - Pinheiros, São Paulo - SP, 05406-100, Brésil",
+      "Updated" : "2016-08-04T22:52:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.647644, -23.567152 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Cincinato+Braga,+511+-+Bela+Vista,+S%C3%A3o+Paulo+-+SP,+01333-011,+Br%C3%A9sil&ftid=0x94ce59beca906e75:0xa08a5b81faef4fff",
+      "Location" : {
+        "Latitude" : "-23.567152",
+        "Longitude" : "-46.647644"
+      },
+      "Published" : "2016-08-04T13:30:50Z",
+      "Title" : "Rua Cincinato Braga, 511 - Bela Vista, São Paulo - SP, 01333-011, Brésil",
+      "Updated" : "2016-08-04T13:30:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.697949, -23.534482 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Aur%C3%A9lia,+1414+-+Vila+Romana,+S%C3%A3o+Paulo+-+SP,+05046-001,+Br%C3%A9sil&ftid=0x94ce57d9b361a671:0xdaf4af80ffdbfd1a",
+      "Location" : {
+        "Latitude" : "-23.534482",
+        "Longitude" : "-46.697949"
+      },
+      "Published" : "2016-08-04T11:58:28Z",
+      "Title" : "Rua Aurélia, 1414 - Vila Romana, São Paulo - SP, 05046-001, Brésil",
+      "Updated" : "2016-08-04T11:58:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.695943, -23.567137 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Campo+Alegre,+60+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05424-090,+Br%C3%A9sil&ftid=0x94ce57a71f936c17:0xc9fbbfd5c7218419",
+      "Location" : {
+        "Latitude" : "-23.567137",
+        "Longitude" : "-46.695943"
+      },
+      "Published" : "2016-08-04T11:54:52Z",
+      "Title" : "Rua Campo Alegre, 60 - Pinheiros, São Paulo - SP, 05424-090, Brésil",
+      "Updated" : "2016-08-04T11:54:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.656770, -23.556567 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Condom%C3%ADnio+Edif%C3%ADcio+Dona+Rachel+-+R.+Frei+Caneca,+1101+-+Cerqueira+C%C3%A9sar,+S%C3%A3o+Paulo+-+SP,+01307-003,+Br%C3%A9sil&ftid=0x94ce59ccb09cd9cf:0xb59afde1bef3c384",
+      "Location" : {
+        "Latitude" : "-23.556567",
+        "Longitude" : "-46.656770"
+      },
+      "Published" : "2016-08-04T11:51:10Z",
+      "Title" : "Condomínio Edifício Dona Rachel - Rua Frei Caneca, 1101 - Cerqueira César, São Paulo - SP, 01307-003, Brésil",
+      "Updated" : "2016-08-04T11:51:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.687032, -23.562495 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=R.+Fradique+Coutinho,+465+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05416-010,+Br%C3%A9sil&ftid=0x94ce579edb87f2a1:0x699ed748925310e8",
+      "Location" : {
+        "Latitude" : "-23.562495",
+        "Longitude" : "-46.687032"
+      },
+      "Published" : "2016-08-04T11:47:38Z",
+      "Title" : "Rua Fradique Coutinho, 465 - Pinheiros, São Paulo - SP, 05416-010, Brésil",
+      "Updated" : "2016-08-04T11:47:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -46.654465, -23.559018 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Av.+9+de+Julho,+2054+-+Bela+Vista,+S%C3%A3o+Paulo+-+SP,+01312-001,+Br%C3%A9sil&ftid=0x94ce59cbc43cfc83:0xfdf14febbfa88f67",
+      "Location" : {
+        "Latitude" : "-23.559018",
+        "Longitude" : "-46.654465"
+      },
+      "Published" : "2016-08-04T11:46:58Z",
+      "Title" : "Avenida 9 de Julho, 2054 - Bela Vista, São Paulo - SP, 01312-001, Brésil",
+      "Updated" : "2016-08-04T11:46:58Z"
+    },
+    "type" : "Feature"
+  } ]
+}

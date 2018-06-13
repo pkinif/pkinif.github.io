@@ -1,0 +1,394 @@
+{
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 49.6288522, 5.7992951999999995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Rue Albert 1er 126, 6780 Messancy, Belgique",
+      "name" : "Accueil"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 50.836380299999995, 4.3710423 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Rue du Trône 108, 1050 Ixelles, Belgique",
+      "name" : "Professionnel"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5475383, -46.636133699999995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Praça do Patriarca, 56 - Sé, São Paulo - SP, 01002-010, Brésil",
+      "name" : "départ Bolivie"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 49.5933078, 5.826039199999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Rue de Luxembourg 26, 6780 Messancy, Belgique",
+      "name" : "schmit house"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.561038099999998, -46.6834188 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Condomínio Edifício Jardim das Antilhas - R. Teodoro Sampaio, 1424 - Pinheiros, São Paulo - SP, 05406-100, Brésil",
+      "name" : "Gabriel"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5576278, -46.6559141 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Antônio Carlos, 106 - Consolação, São Paulo - SP, 01309-010, Brésil",
+      "name" : "kot d'or"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 50.0321772, 5.6273199 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Flamisoul 885, 6688 Bertogne, Belgique",
+      "name" : "CASA PAPA MAMA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5620409, -46.687158 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Fradique Coutinho, 540 - Pinheiros, São Paulo - SP, Brésil",
+      "name" : "Correios"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 49.621060799999995, 6.0958321 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Creos Luxembourg S.A., 2 Rue Thomas Edison, 1445 Strassen, Luxembourg",
+      "name" : "Ims"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -34.908874499999996, -56.1955824 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Wilson Ferreira Aldunate 1182, Montevideo, Uruguay",
+      "name" : "Auberge"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -17.7892208, -63.1616078 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Estacion Bimodal Terrestre y Ferroviaria, Av Intermodal, Santa Cruz, Bolivie",
+      "name" : "rodovario Santa cruz"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.526021999999998, -46.667525399999995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Barra Funda - Av. Auro Soares de Moura Andrade, 664 - Barra Funda, São Paulo - SP, 01154-060, Brésil",
+      "name" : "Terminal Barrafunda"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 49.6061482, 5.4653903 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Rue du Pargé 29, 6769 Meix-devant-Virton, Belgique",
+      "name" : "Hulet Claude"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 49.601589999999995, 6.121835 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Banque Internationale à Luxembourg, 69 Route d'Esch, Luxembourg",
+      "name" : "boulot"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -22.967223, -43.1887717 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Rua Figueiredo de Magalhães, 643 - Copacabana, Rio de Janeiro - RJ, 22031-011, Brésil",
+      "name" : "Caio"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5565665, -46.6567703 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Condomínio Edifício Dona Rachel - R. Frei Caneca, 1101 - Cerqueira César, São Paulo - SP, 01307-003, Brésil",
+      "name" : "Alina"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5959716, -46.688496199999996 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Gomes de Carvalho, 1609, São Paulo - SP, Brésil",
+      "name" : "extra"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5552301, -46.6857395 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Medeiros de Albuquerque, 256 - Pinheiros, São Paulo - SP, 05436-060, Brésil",
+      "name" : "Edwina Rdv"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5632295, -46.7204687 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Av. Prof. Lineu Prestes, 159, São Paulo - SP, 05508-000, Brésil",
+      "name" : "Cours Portuguais"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.562495199999997, -46.6870318 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Fradique Coutinho, 465 - Pinheiros, São Paulo - SP, 05416-010, Brésil",
+      "name" : "Ricardo"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.534482399999998, -46.6979492 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Aurélia, 1414 - Vila Romana, São Paulo - SP, 05046-001, Brésil",
+      "name" : "Beto An"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 49.6032745, 6.137753099999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "20 Rue des Trevires, 2628 Luxembourg",
+      "name" : "Small world"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.567152099999998, -46.6476444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Cincinato Braga, 511 - Bela Vista, São Paulo - SP, 01333-011, Brésil",
+      "name" : "Patricia"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -19.047677, -65.2589402 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Plaza 25 de Mayo, Sucre, Bolivie",
+      "name" : "plaza 25 de mayo - Centre ville"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -18.1282604, -68.9539593 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Sajama National Park and Natural Integrated Management Area, Bolivie",
+      "name" : "parc national sajama"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5556385, -46.687873499999995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Alto da Harmonia - Rua Harmonia, 271 - Vila Madalena, São Paulo - SP, 05435-001, Brésil",
+      "name" : "tanguy's birthday"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5679348, -46.6921083 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. dos Pinheiros, 1530 - Pinheiros, São Paulo - SP, 05422-002, Brésil",
+      "name" : "Rodrigo"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -19.0493243, -65.25689299999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Calvo, Sucre, Bolivie",
+      "name" : "Connor Trekker"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5542652, -46.6888569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Rua Harmonia, 457 - Sumarezinho, São Paulo - SP, Brésil",
+      "name" : "Laura casa"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.528075299999998, -46.697150199999996 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Tito, 542 - Lapa, São Paulo - SP, Brésil",
+      "name" : "arco et flecha"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.589909799999997, -46.6191543 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Av. Dr. Ricardo Jafet, 1501, São Paulo - SP, 04123-030, Brésil",
+      "name" : "extra"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -25.5205864, -54.56351 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Av. Costa e Silva, 1601 - Parque Pres. 1, Foz do Iguaçu - PR, 85863-000, Brésil",
+      "name" : "terminal des bus"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.570371599999998, -46.639519299999996 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Grupo Netshoes - Rua Vergueiro, 943 - Liberdade, São Paulo - SP, 01504-001, Brésil",
+      "name" : "Netshoes"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.559018, -46.6544652 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Av. 9 de Julho, 2054 - Bela Vista, São Paulo - SP, 01312-001, Brésil",
+      "name" : "Igor"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.5427675, -46.7158758 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Condomínio Conjunto Residencial Alto de Pinheiros - Av. Diógenes Ribeiro de Lima, 2000 - Alto de Pinheiros, São Paulo - SP, 05458-001, Brésil",
+      "name" : "Izilda"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -23.567137, -46.6959428 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "R. Campo Alegre, 60 - Pinheiros, São Paulo - SP, 05424-090, Brésil",
+      "name" : "Jose"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 49.6015903, 6.1218354 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "69 Route d'Esch, L-2953 Luxembourg",
+      "name" : "Boulot"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -34.4714209, -57.846100799999995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "18 de Julio, Col del Sacramento, Departamento de Colonia, Uruguay",
+      "name" : "Celestino Hostel Bb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -34.036543, -53.5485592 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Avenida Central, Punta del Diablo, Departamento de Rocha, Uruguay",
+      "name" : "Airbnb"
+    },
+    "type" : "Feature"
+  } ],
+  "type" : "FeatureCollection"
+}

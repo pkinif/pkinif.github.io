@@ -1,5 +1,8 @@
 ---
 title: "Test Flexdashboard"
+output:
+  html_document:
+    code_folding: hide
 ---
 <style>
   .col2 {
@@ -17,7 +20,7 @@ title: "Test Flexdashboard"
 </div>
 <br>
 
-
+<a href="https://www.unamur.be/en"><img src="Child/figures/UNamur.png" alt="Unamur logo" align="right" style="width:10%" /></a>
 
 ```{r echo = FALSE, message = FALSE, comment = FALSE, warning = FALSE}
 # With the takeout tool of google, I have dowloaded all my visited place from my google map. The file format is json. To open it in R I require the rjson package

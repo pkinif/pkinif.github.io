@@ -9,7 +9,7 @@ output:
 [Download CV in PDF](Files/Cv_Pdf.pdf)	
 
 # EDUCATION
-<img src="Image/MySelfButNiceJacket.jpg" style="width:19%;position:absolute;top:0px;right:0px;" />
+<img src="Image/MeEnRond.png" style="width:19%;position:absolute;top:5px;right:0px;" />
 
 **09/2017-Present**: *University of Luxembourg*, Cert. in Sust. Dvlp and Soc. Innov.  
 
