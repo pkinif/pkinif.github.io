@@ -23,7 +23,7 @@ myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)
 ```
 
-*"I am a ...,...,... and..."*
+<!-- *"I am a ...,...,... and..."* -->
 
 <br>
 
@@ -41,7 +41,7 @@ include_graphics(myimages)
 <center>
 
 <font size="5">
-<p align="left"><b>Education:<b></p>
+<p align="left">Education:</p>
 </font> 
 
 ```{r, echo = FALSE, message= FALSE, out.width="15%"}
@@ -51,7 +51,7 @@ include_graphics(myimages)
 ```
 
 <font size="5">
-<p align="left"><b>Experience:<b></p>
+<p align="left">Experience:</p>
 </font> 
 
 ```{r, echo = FALSE, message= FALSE, out.width="15%"}

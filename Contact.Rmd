@@ -1,14 +1,16 @@
 &emsp;
 
-<img src="Image/contact.jpg" style="margin-right: 20px" align="left">
-
 # **Let's get in touch !**
 
-Do you want to chat more? I will be more than happy to discuss with you! Please pick up one of the following options:
+<br>
+<br>
 
-**Email:** pierrick-kinif@hotmail.be
+### Do you want to chat more? I will be more than happy to discuss with you! Please pick up one of the following options:
 
-**Phone:** (+32) 478 113 485
+<br>
+<br>
 
-**Social Networks:** Linkedin, GitHub or ResearchGate (see links in the top right)
-
+<h3><i class="fa fa-envelope" style="font-size:36px"></i> pierrick-kinif@hotmail.be</h3>
+<h3><i class="fa fa-phone-square" style="font-size:36px"></i> 0032 478 113 485</h3>
+<h3><i class="fa fa-linkedin" style="font-size:36px"></i><a href="https://www.linkedin.com/in/pierrickkinif/"> pierrickkinif</a>
+<h3><i class="fa fa-github-square" style="font-size:36px"></i><a href="https://github.com/pkinif"> pkinif</a>
