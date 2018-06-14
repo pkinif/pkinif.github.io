@@ -27,9 +27,7 @@ include_graphics(myimages)
 
 <br>
 
-<form>
-<input class="MyButton" type="button" value="More About Me" onclick="window.location.href='FDB/Fdb.html'" />
-</form> 
+<button class="btn btn-success" onclick=" window.open('FDB/Fdb.html','_blank')"> More About Me</button>
 
 <br>
 <br>
@@ -62,9 +60,8 @@ include_graphics(myimages)
 
 <br>
 
-<form>
-<input class="MyButton" type="button" value="Check My Cv" onclick="window.location.href='https://www.pierrickkinif.com/Cv.html'" />
-</form> 
+<button class="btn btn-success" onclick=" window.open('https://www.pierrickkinif.com/Cv.html','_blank')"> Check My Cv</button>
+
 
 <br>
 <br>

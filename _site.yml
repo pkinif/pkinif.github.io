@@ -6,23 +6,20 @@ navbar:
   - text: "Home"
     href: index.html
   - text: "About Me"
-    href: AboutMe.html
+    href: FDB/Fdb.html
   - text: "Cv"
     href: Cv.html
   right:
   - icon: far fa-envelope
     href: Contact.html
   - icon: fa-linkedin fa-lg
-    href: https://www.linkedin.com/in/pierrickkinif/  
+    href: https://www.linkedin.com/in/pierrickkinif/
   - icon: fa fa-github-square
     href: https://github.com/pkinif
-
 output:
   html_document:
-    theme: cosmo
+    theme: journal
     highlight: textmate
-    #include:
-      #after_body: Footer/footer-distributed.html
     css: css/syle.css
     lib_dir: site_libs
     self_contained: no
