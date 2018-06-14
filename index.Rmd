@@ -28,7 +28,7 @@ include_graphics(myimages)
 <br>
 
 <form>
-<input class="MyButton" type="button" value="More About Me" onclick="window.location.href='https://www.pierrickkinif.com/AboutMe.html'" />
+<input class="MyButton" type="button" value="More About Me" onclick="window.location.href='FDB/Fdb.html'" />
 </form> 
 
 <br>
