@@ -14,7 +14,7 @@ navbar:
     href: Contact.html
   - icon: fa-linkedin fa-lg
     href: https://www.linkedin.com/in/pierrickkinif/  
-    - icon: fab fa-github
+  - icon: fab fa-github
     href: https://github.com/pkinif
 
 output:
