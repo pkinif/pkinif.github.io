@@ -5,8 +5,7 @@ output:
     toc: true  
     toc_float: true
 ---
-
-[Download CV in PDF](Files/Cv_Pdf.pdf)	
+<i class="fa fa-hand-o-right" style="font-size:20px"></i> [Download CV in PDF](Files/Cv_Pdf.pdf)	
 
 # EDUCATION
 <img src="Image/MeEnRond.png" style="width:19%;position:absolute;top:5px;right:0px;" />
