@@ -3,9 +3,85 @@
 # **Hi, I am Pierrick!**
 
 <br>
-
+<center>
 <img id="img-me" src="Image/MeEnRond.png" style="width:35%;" height="auto">
-
+</center>
 <br>
 
 >Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress.
+
+<br>
+<center>
+
+## **About Me**
+
+<hr>
+
+```{r, echo = FALSE, message= FALSE, out.width="30%"}
+require(knitr)
+myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
+include_graphics(myimages)
+```
+
+*"I am a ...,...,... and..."*
+
+<br>
+
+<form>
+<input class="MyButton" type="button" value="More About Me" onclick="window.location.href='https://www.pierrickkinif.com/AboutMe.html'" />
+</form> 
+
+<br>
+<br>
+
+## **Curriculum Vitae**
+
+<hr>
+
+<center>
+
+<font size="5">
+<p align="left"><b>Education:<b></p>
+</font> 
+
+```{r, echo = FALSE, message= FALSE, out.width="15%"}
+require(knitr)
+myimages<-list.files("Image/Logo/Unif/", pattern = ".png", full.names = TRUE)
+include_graphics(myimages)
+```
+
+<font size="5">
+<p align="left"><b>Experience:<b></p>
+</font> 
+
+```{r, echo = FALSE, message= FALSE, out.width="15%"}
+require(knitr)
+myimages<-list.files("Image/Logo/Work/", pattern = ".png", full.names = TRUE)
+include_graphics(myimages)
+```
+
+<br>
+
+<form>
+<input class="MyButton" type="button" value="Check My Cv" onclick="window.location.href='https://www.pierrickkinif.com/Cv.html'" />
+</form> 
+
+<br>
+<br>
+
+<center>
+
+
+## **Contact Me**
+
+<hr>
+<br>
+
+<h3><i class="fa fa-envelope" style="font-size:36px"></i> pierrick-kinif@hotmail.be</h3>
+<h3><i class="fa fa-phone-square" style="font-size:36px"></i> 0032 478 113 485</h3>
+<h3><i class="fa fa-linkedin" style="font-size:36px"></i><a href="https://www.linkedin.com/in/pierrickkinif/"> pierrickkinif</a>
+<h3><i class="fa fa-github-square" style="font-size:36px"></i><a href="https://github.com/pkinif"> pkinif</a>
+
+
+<br>
+<center>

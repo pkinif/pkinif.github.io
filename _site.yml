@@ -3,26 +3,27 @@ output_dir: '.'
 navbar:
   title: "Pierrick Kinif"
   left:
-  - text: "About Me"
+  - text: "Home"
     href: index.html
+  - text: "About Me"
+    href: AboutMe.html
   - text: "Cv"
     href: Cv.html
   right:
   - icon: far fa-envelope
     href: Contact.html
-  - icon: fab fa-github
-    href: https://github.com/pkinif
   - icon: fa-linkedin fa-lg
-    href: https://www.linkedin.com/in/pierrickkinif/
-  - icon: fab fa-researchgate
-    href: https://www.researchgate.net/profile/Pierrick_Kinif
+    href: https://www.linkedin.com/in/pierrickkinif/  
+    - icon: fab fa-github
+    href: https://github.com/pkinif
+
 output:
   html_document:
     theme: cosmo
     highlight: textmate
     #include:
-      #after_body: footer.html
-    css: style.css
+      #after_body: Footer/footer-distributed.html
+    css: css/syle.css
     lib_dir: site_libs
     self_contained: no
 
