@@ -8,7 +8,7 @@
 </center>
 <br>
 
->Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress.
+> Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress. My daily mission is to *"go to bed smarter than when I woke up"* ― Charles T. Munger.
 
 <br>
 <center>
@@ -19,7 +19,7 @@
 
 > *I travel the world to learn as much as I can and to try new things.* 
 
-```{r, echo = FALSE, message= FALSE, out.width="30%"}
+```{r, echo = FALSE, message= FALSE, out.width="33%"}
 require(knitr)
 myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)

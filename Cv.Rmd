@@ -5,22 +5,32 @@ output:
     toc: true  
     toc_float: true
 ---
-<i class="fa fa-hand-o-right" style="font-size:20px"></i> [Download CV in PDF](Files/Cv_Pdf.pdf)	
+
+<br>
+
+<button class="btn btn-success" onclick=" window.open('CurriculumVitae/Cv_pdf.pdf','_blank')"> <i class="fa fa-hand-o-right" style="font-size:20px"></i> Download in PDF</button>
+
+<br>
+
+
 
 # EDUCATION
-<img src="Image/MeEnRond.png" style="width:19%;position:absolute;top:5px;right:0px;" />
+<img src="Image/MeEnRond.png" style="width:19%;position:absolute;top:8px;right:0px;" />
 
 **09/2017-Present**: *University of Luxembourg*, Cert. in Sust. Dvlp and Soc. Innov.  
 
 **07/2016-01/2017**: *FEA, University of São Paulo*, Erasmus Mundus 
 
-**09/2015-06/2018**: *University of Namur*, MBA, Distinction   
+**09/2015-06/2018**: *University of Namur*, MBA, Finance Specialization, Distinction   
 
 > **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*, available on my [GitHub](https://github.com/pkinif/Thesis) account.
 
 **09/2012-09/2015**: *University of Namur*, BBA
 
 **09/2007-06/2012**: *CE Saint-Joseph of Chimay*, High School, General Studies 
+
+<br>
+
 
 # EXPERIENCE
 
@@ -70,6 +80,7 @@ Belgian fast food chain of more than 70 restaurants.
 
 - Reinforcement of my customer service
 
+<br>
 
 # LANGUAGES
 
@@ -90,6 +101,8 @@ Belgian fast food chain of more than 70 restaurants.
 - **Dutch**:      Limited working proficiency (i.e. B1 level)
 
 - **Spanish**:    Elementary proficiency (i.e. A1 level)
+
+<br>
 
 # CERTIFICATION
 
