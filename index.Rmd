@@ -17,6 +17,8 @@
 
 <hr>
 
+> *I travel the world to learn as much as I can and to try new things.* 
+
 ```{r, echo = FALSE, message= FALSE, out.width="30%"}
 require(knitr)
 myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
@@ -35,6 +37,8 @@ include_graphics(myimages)
 ## **Curriculum Vitae**
 
 <hr>
+
+> *I've spent also a lot of time studying and working for amazing companies.*
 
 <center>
 
@@ -60,7 +64,7 @@ include_graphics(myimages)
 
 <br>
 
-<button class="btn btn-success" onclick=" window.open('https://www.pierrickkinif.com/Cv.html','_blank')"> Check My Cv</button>
+<button class="btn btn-success" onclick=" window.open('https://www.pierrickkinif.com/Cv.html','_blank')"> Check My Full Cv</button>
 
 
 <br>
@@ -72,6 +76,9 @@ include_graphics(myimages)
 ## **Contact Me**
 
 <hr>
+
+> *I am always ready to start new challenges. Do you think I could fulfill your tasks? Contact me!*
+
 <br>
 
 <h3><i class="fa fa-envelope" style="font-size:36px"></i> pierrick-kinif@hotmail.be</h3>
