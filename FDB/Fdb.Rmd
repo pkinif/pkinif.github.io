@@ -12,13 +12,14 @@ output:
     vertical_layout: scroll
     orientation: rows
     theme: journal
-    #css: css_journal.css
+    css: css_journal.css
     #source_code: embed
     #social: menu
 ---
 ```{r setup, include=FALSE}
 library(flexdashboard)
 ```
+
 
 Row
 -----------------------------------------------------------------------

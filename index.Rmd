@@ -77,7 +77,7 @@ include_graphics(myimages)
 
 <hr>
 
-> *I am always ready to start new challenges. Do you think I could fulfill your tasks? Contact me!*
+> *I am always prepared to start new challenges. Do you think I could fulfill your tasks? Contact me!*
 
 <br>
 

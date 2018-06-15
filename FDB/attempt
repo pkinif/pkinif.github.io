@@ -1,0 +1,187 @@
+<style>
+.navbar-inverse {
+background-color:white !important;
+background:white;
+color:black;
+}
+.navbar{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-default{
+background-color:white;
+background:white;
+color:black;
+}  
+.navbar-fixed-top{
+background-color:white;
+color:black;
+}    
+.flexdashboard-navbar{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-author{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-logo{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-inverse .navbar-nav{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar .navbar-brand{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-logo img{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar .dropdown-menu .fa{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar .dropdown-menu{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom{
+background-color:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li > a:active{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li > a.text-muted{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li > a:hover{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li:not(.active) > a:active{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li.active:hover > a{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li.active > a{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li.header{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li.header > .fa{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li.header > .glyphicon{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .nav-tabs > li.header > .ion{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .tab-content{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom > .tab-content > .chart-wrapper{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom .dropdown.open > a:active{
+background-color:white;
+background:white;
+color:black;
+}
+.nav-tabs-custom .dropdown.open > a:focus{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar navbar-inverse navbar-fixed-top{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar navbar-inverse navbar-fixed-top{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-button{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-toggle collapsed{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-collapse collapse{
+background-color:white;
+background:white;
+color:black;
+}
+.nav navbar-nav navbar-left{
+background-color:white;
+background:white;
+color:black;
+}
+.nav navbar-nav navbar-right{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-header
+{
+background-color:white;
+background:white;
+color:black;
+}
+.navbar-logo pull-left
+{
+background-color:white;
+background:white;
+color:black;
+}
+</style>
