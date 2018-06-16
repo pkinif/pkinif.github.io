@@ -1,6 +1,14 @@
 .navbar-inverse .navbar-brand,
+.navbar-inverse:hover,
+.navbar-inverse:active,
 .navbar-inverse .navbar-text,
+.navbar-fixed-top,
 .navbar-inverse .navbar-nav > li > a {
   background-color:white;
   color:black;
+}
+.navbar-inverse:active,
+.navbar-inverse:open{ 
+    color: #000000;
+    background-color: #ffe6e6;
 }
