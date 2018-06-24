@@ -8,12 +8,12 @@
 </center>
 <br>
 
-> Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. Every day, I am doing research to collect evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I have developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress. My daily mission is to *"go to bed smarter than when I woke up"* ― Charles T. Munger.
+> Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. I've spent the last years collecting evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I've developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress.
 
 <br>
 <center>
 
-## **About Me**
+## When I am not working...
 
 <hr>
 
@@ -24,12 +24,6 @@ require(knitr)
 myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)
 ```
-
-<!-- *"I am a ...,...,... and..."* -->
-
-<br>
-
-<button class="btn btn-success" onclick=" window.open('FDB/Fdb.html','_blank')"> More About Me</button>
 
 <br>
 <br>
@@ -82,7 +76,11 @@ include_graphics(myimages)
 <br>
 
 <h3><i class="fa fa-envelope" style="font-size:36px"></i> pierrick-kinif@hotmail.be</h3>
+
+<!--
 <h3><i class="fa fa-phone-square" style="font-size:36px"></i> 0032 478 113 485</h3>
+-->
+
 <h3><i class="fa fa-linkedin" style="font-size:36px"></i><a href="https://www.linkedin.com/in/pierrickkinif/"> pierrickkinif</a>
 <h3><i class="fa fa-github-square" style="font-size:36px"></i><a href="https://github.com/pkinif"> pkinif</a>
 

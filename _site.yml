@@ -3,10 +3,8 @@ output_dir: '.'
 navbar:
   title: "Pierrick Kinif"
   left:
-  - text: "Home"
-    href: index.html
   - text: "About Me"
-    href: FDB/Fdb.html
+    href: index.html
   - text: "Cv"
     href: Cv.html
   right:
@@ -20,7 +18,7 @@ output:
   html_document:
     theme: journal
     highlight: textmate
-    css: css/syle.css
+    #css: css/syle.css
     lib_dir: site_libs
     self_contained: no
 

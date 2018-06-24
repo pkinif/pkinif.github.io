@@ -7,8 +7,8 @@
   background-color:white;
   color:black;
 }
-.navbar-inverse:active,
-.navbar-inverse:open{ 
+.navbar-inverse:focus{ 
     color: #000000;
     background-color: #ffe6e6;
 }
+
