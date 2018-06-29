@@ -23,7 +23,7 @@ output:
 
 **09/2015-06/2018**: *University of Namur*, MBA, Finance Specialization, Distinction   
 
-> **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*, available on my [GitHub](https://github.com/pkinif/Thesis) account.
+> **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*
 
 **09/2012-09/2015**: *University of Namur*, BBA
 
