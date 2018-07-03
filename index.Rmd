@@ -13,26 +13,11 @@
 <br>
 <center>
 
-## When I am not working...
-
-<hr>
-
-> *I travel the world to learn as much as I can and to try new things.* 
-
-```{r, echo = FALSE, message= FALSE, out.width="33%"}
-require(knitr)
-myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
-include_graphics(myimages)
-```
-
-<br>
-<br>
-
 ## **Curriculum Vitae**
 
 <hr>
 
-> *I've spent also a lot of time studying and working for amazing companies.*
+> *I've spent a lot of time studying and working for great universities and companies.*
 
 <center>
 
@@ -67,11 +52,27 @@ include_graphics(myimages)
 <center>
 
 
+## When I am not working...
+
+<hr>
+
+> *I travel the world to learn as much as I can and to try new things.* 
+
+```{r, echo = FALSE, message= FALSE, out.width="33%"}
+require(knitr)
+myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
+include_graphics(myimages)
+```
+
+<br>
+<br>
+
+
 ## **Contact Me**
 
 <hr>
 
-> *I am always prepared to start new challenges. Do you think I could fulfill your tasks? Contact me!*
+> *I am always prepared to start new challenges. Do you want to keep in touch? Contact me!*
 
 <br>
 
