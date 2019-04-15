@@ -8,7 +8,8 @@
 </center>
 <br>
 
-> Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. I've spent the last years collecting evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I've developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress.
+> MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, I am currently working as a Department Manager at Decathlon. I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment which places people and planet at the heart of all of its decision-making. I am a goal-oriented person and my passion for data science (R user [2+ years]) helps me to develop excellent decision-making tools and techniques based on tangible information.
+
 
 <br>
 <center>
@@ -52,11 +53,11 @@ include_graphics(myimages)
 <center>
 
 
-## When I am not working...
+## In my free time...
 
 <hr>
 
-> *I travel the world to learn as much as I can and to try new things.* 
+> *I like spending time abroad to meet people, learn different cultures, and experiment with new things.* 
 
 ```{r, echo = FALSE, message= FALSE, out.width="33%"}
 require(knitr)
@@ -72,7 +73,7 @@ include_graphics(myimages)
 
 <hr>
 
-> *I am always prepared to start new challenges. Do you want to keep in touch? Contact me!*
+> *Do you want to keep in touch? Contact me!*
 
 <br>
 

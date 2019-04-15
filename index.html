@@ -11,7 +11,7 @@
 
 
 
-<title></title>
+<title>index.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,9 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +71,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -99,6 +96,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -113,7 +113,6 @@ body {
   padding-top: 66px;
   margin-top: -66px;
 }
-
 .section h2 {
   padding-top: 66px;
   margin-top: -66px;
@@ -133,6 +132,43 @@ body {
 .section h6 {
   padding-top: 66px;
   margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +190,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -231,7 +333,7 @@ $(document).ready(function () {
 </center>
 <p><br></p>
 <blockquote>
-<p>Fresh finance graduate with a passion for Sustainable Development, my studies in three different universities provided me with a holistic background in Sustainable Finance. I’ve spent the last years collecting evidence that it does pay to be green and that companies have incentives to adopt sustainable business strategies. To achieve this goal, I’ve developed strong data analytics skills in learning software environment for statistical computing. My main concern is doing research in a reproducible way so that others may verify my findings and build upon them to further the science and to drive ongoing progress.</p>
+<p>MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, I am currently working as a Department Manager at Decathlon. I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment which places people and planet at the heart of all of its decision-making. I am a goal-oriented person and my passion for data science (R user [2+ years]) helps me to develop excellent decision-making tools and techniques based on tangible information.</p>
 </blockquote>
 <br>
 <center>
@@ -255,17 +357,17 @@ Experience:
 <p></font></p>
 <p><img src="Image/Logo/Work/0Logo-Décathlon.png" width="15%" /><img src="Image/Logo/Work/1IMS.png" width="15%" /><img src="Image/Logo/Work/2BIL.png" width="15%" /><img src="Image/Logo/Work/3_4ucampus_orange.png" width="15%" /><img src="Image/Logo/Work/4LunchGarden.png" width="15%" /></p>
 <p><br></p>
-<button class="btn btn-success" onclick=" window.open('https://www.pierrickkinif.com/Cv.html','_blank')">
+<button class="btn btn-success" onclick=" window.open(&#39;https://www.pierrickkinif.com/Cv.html&#39;,&#39;_blank&#39;)">
 Check My Full Cv
 </button>
 <p><br> <br></p>
 <center>
 </div>
-<div id="when-i-am-not-working" class="section level2">
-<h2>When I am not working…</h2>
+<div id="in-my-free-time" class="section level2">
+<h2>In my free time…</h2>
 <hr>
 <blockquote>
-<p><em>I travel the world to learn as much as I can and to try new things.</em></p>
+<p><em>I like spending time abroad to meet people, learn different cultures, and experiment with new things.</em></p>
 </blockquote>
 <p><img src="Image/Passion/Fire.JPG" width="33%" /><img src="Image/Passion/GlobeTrotter.JPG" width="33%" /><img src="Image/Passion/P8210705%20-%20Copie.JPG" width="33%" /></p>
 <p><br> <br></p>
@@ -274,11 +376,11 @@ Check My Full Cv
 <h2><strong>Contact Me</strong></h2>
 <hr>
 <blockquote>
-<p><em>I am always prepared to start new challenges. Do you want to keep in touch? Contact me!</em></p>
+<p><em>Do you want to keep in touch? Contact me!</em></p>
 </blockquote>
 <p><br></p>
 <h3>
-<i class="fa fa-envelope" style="font-size:36px"></i> <a href="mailto:pierrick-kinif@hotmail.be">pierrick-kinif@hotmail.be</a>
+<i class="fa fa-envelope" style="font-size:36px"></i> <a href="mailto:pierrick-kinif@hotmail.be" class="email">pierrick-kinif@hotmail.be</a>
 </h3>
 <!--
 <h3><i class="fa fa-phone-square" style="font-size:36px"></i> 0032 478 113 485</h3>
