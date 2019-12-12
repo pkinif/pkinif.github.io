@@ -16,7 +16,6 @@ ui <- shiny::fluidPage(
   # 1.0 NAVBARPAGE ----
   navbarPage(
     title = "Pierrick KINIF",
-    # class = "navbar navbar-default navbar-fixed-top",
     inverse = FALSE,
     collapsible = TRUE,
     position = "fixed-top",
@@ -47,7 +46,7 @@ ui <- shiny::fluidPage(
             style = "padding: 12px",
             img(class = "img-rounded img-responsive", src = "MySelfButNiceJacket.jpg"),
             br(),
-            h3(strong("Data Scientist @"), a(href="#", target = "_blank","Decathlon Belgium")), 
+            h3(strong("Data Scientist @"), a(href="https://www.decathlon.be/fr/", target = "_blank","Decathlon Belgium")), 
             br(),
             h4(strong(em(p("Want to know more?")))),
             br(),
@@ -92,41 +91,62 @@ ui <- shiny::fluidPage(
     tabPanel(
       title = strong("Curriculum Vitae"),
       id = "cv",
-      icon = icon("file"),
-      br(),
-      hr()
+      icon = icon("file")
     ),
-    
     # 5.0 CONTACT ICON ----
     navbarMenu(
       title = strong("Contact Information"),
-      icon = icon("pen-fancy"),
+      icon = icon("feather-alt"),
       tabPanel(
-        title = "Linkedin",
-        icon = icon("linkedin")
+        tags$a(
+          HTML("<p> <i class='fab fa-linkedin'></i> &thinsp;Linkedin </p>"),
+          href="https://www.linkedin.com/in/pierrickkinif/", 
+          target = "_blank"
+        )
       ),
       tabPanel(
-        title = "GitHub",
-        icon = icon("github")
+        tags$a(
+          HTML("<p> <i class='fab fa-github'></i> &thinsp;GitHub </p>"),
+          href="https://github.com/pkinif", 
+          target = "_blank"
+        )
       ),
       tabPanel(
-        title = "Email",
-        icon = icon("envelope")
+        tags$a(
+          HTML("<p> <i class='fas fa-envelope'></i> &thinsp;Email </p>"),
+          href="mailto:pierrick-kinif@hotmail.be", 
+          target = "_blank"
+        )
       ),
       tabPanel(
-        a(
-          href="http://google.com", 
-          target="_blank"
-        ),
-        title = "Facebook",
-        icon = icon("facebook")
-        
-        # uiOutput("Link_Facebook")
-      )  ,
-      tabPanel(tags$a("Open Sales Gsheet", href="http://google.com", target="_blank", icon = icon("facebook")))      
-    )    
+        tags$a(
+          HTML("<p> <i class='fab fa-facebook'></i> &thinsp;Facebook </p>"),
+          href="https://www.facebook.com/pierrickk", 
+          target = "_blank"
+        )
+      )
+    ),
+    
+    
+    # 6.0 CODE WEBSITE    
+    tabPanel(
+      # class= "nav-link active",
+      title = strong("Code"),
+      id = "code",
+      href = "https://github.com/pkinif/pkinif.github.io",
+      icon = icon("code")
+    ),
+    tabPanel(
+      tags$a(
+        HTML("<p> <i class='fas fa-code'></i> &thinsp;Code </p>"),
+        href="https://github.com/pkinif/pkinif.github.io", 
+        target = "_blank"
+      )
+    ),
+    tabPanel(title=tags$a(HTML("<i class='fas fa-code'></i>")), href = "#", target = "_blank")
   )
 )
+
 
 # SERVER ----
 
