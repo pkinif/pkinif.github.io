@@ -18,7 +18,6 @@ output:
   html_document:
     theme: cyborg
     highlight: textmate
-    #css: css/syle.css
     lib_dir: site_libs
     self_contained: no
 
