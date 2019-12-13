@@ -34,7 +34,7 @@ footer <- tags$footer(HTML(
 	  </ul>
 	</h3>
 	<br>
-  <p style='color: ##ffffff;'> Copyright &#169; www.pierrickkinif.com 2019</p> 
+  <p style='color: ##ffffff;'> Copyright &#169; &thinsp; &thinsp; www.pierrickkinif.com 2019 &thinsp; &#124; &thinsp; pierrick-kinif@hotmail.be</p> 
 </div>  
   "
 ))
