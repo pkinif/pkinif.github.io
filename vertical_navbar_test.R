@@ -1,37 +1,35 @@
+library(shiny)
 library(shinyWidgets)
+library(gridExtra)
+library(png)
+library(grid)
 
-if (interactive()) {
-  
-  library(shiny)
-  library(shinyWidgets)
-  
-  ui <- fluidPage(
-    fluidRow(
-      column(
-        width = 10, offset = 1,
-        tags$h2("Vertical tab panel example"),
-        verticalTabsetPanel(
-          verticalTabPanel(
-            title = "Title 1", icon = icon("home", "fa-2x"),
-            "Content panel 1"
-          ),
-          verticalTabPanel(
-            title = "Title 2", icon = icon("map", "fa-2x"),
-            "Content panel 2"
-          ),
-          verticalTabPanel(
-            title = "Title 3", icon = icon("rocket", "fa-2x"),
-            "Content panel 3"
-          )
-        )
-      )
+ui <- fluidPage(
+  titlePanel("Compare"),
+  sidebarLayout(
+    sidebarPanel(
+      pickerInput(inputId = "countyInput", label = "Filter county",
+                  choices = c("County1", "County2", "County3", "County4", "County5"),
+                  options = list(`actions-box` = TRUE,size = 10, `selected-text-format` = "count > 9"),
+                  multiple = TRUE),
+      checkboxGroupInput(inputId = "reasonInput", label = "Filter reason",
+                         choices = c("reason1", "reason2", "reason3"))
+    ),
+    mainPanel(
+      plotOutput("plot")
     )
   )
+)
+
+server <- function(input, output, session) {
   
-  server <- function(input, output, session) {
-    
-  }
-  
-  shinyApp(ui, server)
-  
+  output$plot <- renderPlot({
+    filename <- normalizePath(file.path("NicePhoto", paste0(input$countyInput, " ", input$reasonInput, ".png", sep = ""))) # you had one extra space before .png
+    filename <- filename[file.exists(filename)]
+    pngs = lapply(filename, readPNG)
+    asGrobs = lapply(pngs, rasterGrob)
+    p <- grid.arrange(grobs=asGrobs, nrow = 1)
+  }, width = 1000)
 }
+
+shinyApp(ui = ui, server = server)

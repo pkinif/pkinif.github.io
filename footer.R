@@ -6,6 +6,7 @@ footer <- tags$footer(HTML(
   "
 <hr>
 <div class='footer text-center' style='background-color: #4e5d6c;'>
+  <br>
 	<h3 class='text-center' style='color: #ffffff;'>
 	  <strong>Contact Me:</strong>
 	</h3>
@@ -34,7 +35,7 @@ footer <- tags$footer(HTML(
 	  </ul>
 	</h3>
 	<br>
-  <p style='color: ##ffffff;'> Copyright &#169; &thinsp; &thinsp; www.pierrickkinif.com 2019 &thinsp; &#124; &thinsp; pierrick-kinif@hotmail.be</p> 
+  <p style='color: ##ffffff;'> Copyright &#169; www.pierrickkinif.com 2019 &thinsp; &#124; &thinsp; pierrick-kinif@hotmail.be</p> 
 </div>  
   "
 ))
