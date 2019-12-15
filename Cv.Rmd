@@ -8,14 +8,14 @@ output:
 
 <br>
 
-<button class="btn btn-success" onclick=" window.open('Files/CV.pdf','_blank')"> <i class="fa fa-hand-o-right" style="font-size:20px"></i> Download in PDF</button>
+<button class="btn btn-success" onclick=" window.open('www/Files/CV.pdf','_blank')"> <i class="fa fa-hand-o-right" style="font-size:20px"></i> Download in PDF</button>
 
 <br>
 
 
 
 # EDUCATION
-<img src="Image/MeEnRond.png" style="width:19%;position:absolute;top:8px;right:0px;" />
+<img src="www/Image/MeEnRond.png" style="width:19%;position:absolute;top:8px;right:0px;" />
 
 **09/2017-Present**: *University of Luxembourg*, Certificate in Sustainable Development and Social Innovation  
 

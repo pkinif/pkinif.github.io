@@ -188,7 +188,6 @@ ui <- shiny::fluidPage(
             style = "margin-left: 0%; width: 100%",
             
             verticalTabsetPanel(
-              
               # 3.2.1 Experiences ----
               verticalTabPanel(
                 title = "EXPERIENCE", 
@@ -272,6 +271,7 @@ ui <- shiny::fluidPage(
                 tags$li("Promote the company’s products and expand the client base.")
               ),                
               hr(), 
+              
               ),
             
               # 3.2.2 Education ----
@@ -340,17 +340,19 @@ ui <- shiny::fluidPage(
               # 3.2.3 Skills ----
             
               verticalTabPanel(
-                title = "SKILLS", icon = icon("user-secret", "fa-2x"),
+                title = "SKILLS", 
+                icon = icon("user-secret", "fa-2x"),
                 h3(
                   style = "color: #2b3e50;",
                   strong("PROGRAMMING LANGUAGES & TOOLS")
                 ),
                 br(),
+                
+                # 3.2.3.1 Programming & Languages Tools ----
                 div(
                   class = "hidden-xs hidden-sm",
                   h4(
                     style = "color: #4d5c6b;",
-                    # class = "blockquote-reverse",
                     p(strong(em(
                       str_glue(
                         "R-user with {r_experience_years} years' experience, 
@@ -362,52 +364,56 @@ ui <- shiny::fluidPage(
                   div(
                     class = "list-inline dev-icons",
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/lubridate.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/lubridate.png", style = "width: 60px;")
                     ),
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/shiny.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/shiny.png", style = "width: 60px;")
                     ), 
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/h2o.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/h2o.png", style = "width: 60px;")
                     ),                       
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/rmarkdown.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/rmarkdown.png", style = "width: 60px;")
                     ),
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/plotly.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/plotly.png", style = "width: 60px;")
                     ),
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/tidyverse.png", style = "width: 50px;")
-                    ),
+                      width = 2,
+                      img(src = "Icon/R packages/tidyverse.png", style = "width: 60px;")
+                    )
+                  ),
+                  br(), br(), br(),br(),
+                  div(
+                    class = "list-inline dev-icons",
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/parsnip.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/parsnip.png", style = "width: 60px;")
                     ),                  
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/purr.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/purr.png", style = "width: 60px;")
                     ),
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/rsample.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/rsample.png", style = "width: 60px;")
                     ),                         
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/lime.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/lime.png", style = "width: 60px;")
                     ),                  
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/stringr.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/stringr.png", style = "width: 60px;")
                     ),
                     column(
-                      width = 1,
-                      img(src = "Icon/R packages/broom.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/R packages/broom.png", style = "width: 60px;")
                     )                        
                   ),
                   br(),
@@ -416,42 +422,55 @@ ui <- shiny::fluidPage(
                     style = "color: #4d5c6b;",
                     br(),
                     br(),
-                    strong(em("In my Data Science journey, I also use a lot of others tools like:"))
+                    br(),
+                    strong(em("Tools that make my Data Science journey easier:"))
                   ),
                   br(),
                   div(
                     class = "list-inline dev-icons",
                     style = "color:#122546;",
-                    icon("r-project", "fa-3x") %>% column(width = 1),
+                    icon("r-project", "fa-3x") %>% column(width = 2),
                     column(
-                      width = 1,
-                      img(src = "Icon/rstudio.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/rstudio.png", style = "width: 60px;")
                     ),                    
-                    icon("jenkins", "fa-3x") %>% column(width = 1),
-                    icon("github", "fa-3x") %>% column(width = 1),
-                    icon("git", "fa-3x") %>% column(width = 1),
-                    icon("docker", "fa-3x") %>% column(width = 1),
+                    icon("jenkins", "fa-3x") %>% column(width = 2),
+                    icon("github", "fa-3x") %>% column(width = 2),
+                    icon("git", "fa-3x") %>% column(width = 2),
+                    icon("docker", "fa-3x") %>% column(width = 2)
+                  ),
+                  br(), br(), br(),br(),
+                  div(
+                    class = "list-inline dev-icons",
                     column(
-                      width = 1,
-                      img(src = "Icon/mysql_workbench.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/mysql_workbench.png", style = "width: 60px;")
                     ),                        
                     column(
-                      width = 1,
-                      img(src = "Icon/redshift.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/redshift.png", style = "width: 60px;")
                     ),    
                     column(
-                      width = 1,
-                      img(src = "Icon/s3.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/s3.png", style = "width: 90px;")
                     ),                       
                     column(
-                      width = 1,
-                      img(src = "Icon/EC2.png", style = "width: 50px;")
+                      width = 2,
+                      img(src = "Icon/EC2.png", style = "width: 60px;")
                     ),                       
                     column(
-                      width = 1,
-                      img(src = "Icon/bootstrap.png", style = "width: 50px;")
-                    ),                    
-                    HTML("<img src='https://img.icons8.com/color/48/000000/mongodb.png'>") %>% column(width = 1)
+                      width = 2,
+                      img(src = "Icon/bootstrap.png", style = "width: 60px;")
+                    ),       
+                    column(
+                      width = 2,
+                      img(src = "Icon/mongoDB.png", style = "width: 80px;")
+                    ),                     
+                    br(), 
+                    br(), 
+                    br(), 
+                    br(), 
+                    hr()                  
                   )
                 ),
                 div(
@@ -491,7 +510,7 @@ ui <- shiny::fluidPage(
                     style = "color: #4d5c6b;",
                     br(),
                     br(),
-                    strong(em("In my Data Science journey, I also use a lot of others tools like:"))
+                    strong(em("Tools that make my Data Science journey easier:"))
                   ),
                   br(),                  
                   fluidRow(
@@ -514,10 +533,40 @@ ui <- shiny::fluidPage(
                       tags$li("Bootstrap"),
                       tags$li("MongoDB")
                     ) %>% column(width = 4)                 
+                  ),
+                  hr()
+                ),
+                
+                # 3.2.3.2 Oral Languages ----
+                div(
+                  h3(
+                    class = "text-left text-uppercase",
+                    style = "color: #2b3e50;",
+                    strong("ORAL LANGUAGES")
+                  ),
+                  br(),
+                  fluidRow(
+                    style = "color:#122546;",
+                    column(
+                      width = 4,
+                      
+                      p(flag("FR"), strong("French:"), "Native Fluency")
+                    ),
+                    column(
+                      width = 4,
+                      p(flag("gb-eng"), strong("English:"), "Professional working proficiency (i.e. C1 level)")
+                    ),
+                    column(
+                      width = 4,
+                      p(flag("NL"), strong("Dutch:"), "Limited working proficiency (i.e. B1 level)")
+                    )
                   )
                 )
               ),
+            
               
+                
+                
               
               # 3.2.4 Certifications ----
             
