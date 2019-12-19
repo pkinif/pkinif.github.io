@@ -1,5 +1,6 @@
 # LIBRARIES ----
 library(shiny)
+library(shinyWidgets)
 library(tidyverse)
 library(lubridate)
 library(plotly)
@@ -7,6 +8,7 @@ library(shinythemes) #https://rstudio.github.io/shinythemes/
 library(shinyjs)
 library(textreadr)
 library(eeptools)
+library(shinyflags)
 
 source("footer.R")
 
