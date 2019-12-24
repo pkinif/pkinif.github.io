@@ -1,0 +1,114 @@
+---
+title: "Curriculum Vitae"
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true
+---
+
+<br>
+
+<button class="btn btn-success" onclick=" window.open('www/Files/CV.pdf','_blank')"> <i class="fa fa-hand-o-right" style="font-size:20px"></i> Download in PDF</button>
+
+<br>
+
+
+
+# EDUCATION
+<img src="www/Image/MeEnRond.png" style="width:19%;position:absolute;top:8px;right:0px;" />
+
+**09/2017-Present**: *University of Luxembourg*, Certificate in Sustainable Development and Social Innovation  
+
+**07/2016-01/2017**: *FEA, University of São Paulo*, Erasmus Mundus 
+
+**09/2015-06/2018**: *University of Namur*, Master of Business Administration, Finance Specialization, Distinction   
+
+> **Thesis** | *"Towards Green Companies: A Panel Data Study of The Environmental and Financial Performance Nexus"*
+
+- This master’s thesis has been written in [R Markdown](https://rmarkdown.rstudio.com/) to make it transparent and reproducible for the reader. 
+- All resources are available on my [GitHub account](https://github.com/pkinif) and can be gladly shared upon request
+
+**09/2012-09/2015**: *University of Namur*, Bachelor of Business Administration
+
+**09/2007-06/2012**: *CE Saint-Joseph of Chimay*, High School, General Studies 
+
+<br>
+
+
+# EXPERIENCE
+
+**09/2018 - Present**:  Department Manager at [Decathlon](https://www.decathlon.be/fr?gclid=EAIaIQobChMIrpavvbn83QIVzb3tCh22kAVpEAAYASAAEgLh5vD_BwE)* 
+
+Europe's Nº1 Sports Retailer, Decathlon's goal is to make sport accessible to the many.
+
+- Leading a team of 10-15 individuals who are fanatically devoted to sharing their sport passion
+- Implement a strategy to increase sales growth (+ 8%)
+- Support, challenge and build both commercial and human skills of the team
+- Ensure and improve customer satisfaction
+- Inventory management
+
+**09/2017-03/2018**: *Assistant, Sustainability Practice at [IMS Luxembourg](http://imslux.lu/)*
+
+Luxemburgish network that accompanies organizations in their commitment to CSR by enhancing dialogue with their stakeholders.
+
+- Results analysis of a CSR survey for presentation during the [Luxembourg Sustainability Forum (i.e. LSF) 2017](https://www.youtube.com/watch?v=GIjwK_j_HyY) and later publication. 
+- Help for the organization of the LSF2017 + media follow-up 
+- Organization of a workshop in the context of the *Food* pillar of the [*"Third Industrial Revolution"*](http://www.troisiemerevolutionindustrielle.lu/)
+- Measurement of the company's carbon footprint
+- Research and writing assistance for the publication of the magazine *"Sustainability MAG"*
+
+**01/2017-06/2017**: *Credit Risk Data Analyst Intern at [BIL Luxembourg](https://www.bil.com/fr/Pages/index.aspx)* 
+
+The oldest private banking group in the Grand Duchy and among the country’s top three banks. 
+
+- Using SQL for validating and ensuring consistency of the credit risk databases
+- Development of a VBA application to automatize the data validation process
+- Review risk exposure calculations and forecasts for Basel requirements
+
+**09/2015-03/2016**: *Campus Consultant at [4uCampus](https://www.4ucampus.be/fr/)* 
+
+A company which offers reductions on newspapers, magazines, computers, software ,and printers to students and academic staff.
+
+- Sales of subscriptions of press titles to students and academic staff
+- Promote the company’s products
+- Expand the client base
+
+**09/2015-01/2016**: *Consulting Project at [Lunch Garden](https://www.lunchgarden.be/fr?gclid=EAIaIQobChMIx6rm_s282wIVhJ3VCh1brww1EAAYASAAEgK7A_D_BwE)*
+
+Belgian fast food chain of more than 70 restaurants. 
+
+- Improve the employer branding of the company
+
+**09/2012-12/2015**: *Barman and Server at [Les Caves à Bières](https://www.google.com/url?sa=t&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiynrj6rb3bAhUsJ8AKHeloA60QFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Fpages%2FLes-Caves-%25C3%2580-Bi%25C3%25A8res%2F186535764722243&usg=AOvVaw3QgJ8qNQfPsKg4xsqVIf3t), the [Piano bar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi-9KvXrb3bAhVKI8AKHQLxBiMQFgguMAA&url=https%3A%2F%2Ffr-fr.facebook.com%2Flepianobarnamur%2F&usg=AOvVaw2czC_1tmXbWBVyH_t6Q9hW) ,and the [Arsenal](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi3gJ2Vrr3bAhWRasAKHXc8DtYQFgg-MAE&url=https%3A%2F%2Fwww.unamur.be%2Fservices%2Fsocial%2Farsenal&usg=AOvVaw1EWoWte0qHjoIsPppcGMhT)* Namur 
+
+- Financing my studies
+
+
+<br>
+
+# LANGUAGES
+
+## Programming
+
+- **Proficient**: R, Rmarkdown, Reproducible Research, LaTeX, GitHub, Zotero, VBA, Pack Office
+
+- **Familiar**:   SQL, SAP BO, Stata, SPSS
+
+- **Basics**: SAS, Oxmétrics, Html
+
+## Written & Spoken
+
+- **French**:     Native Fluency
+
+- **English**:    Professional working proficiency (i.e. C1 level)
+
+- **Dutch**:      Limited working proficiency (i.e. B1 level)
+
+<br>
+
+# CERTIFICATION
+
+- [R Programming Track Certification](https://www.datacamp.com/statement-of-accomplishment/track/9a890cbd92c12c460df02974feaef2b0b564d6ae), DataCamp, April 2019
+- [Importing & Cleaning Data with R Track Certification](https://www.datacamp.com/statement-of-accomplishment/track/2f5129311b13fce47c0c8af797124363dc43f7d4), DataCamp, August 2019
+- [Data Analyst with R Certification](https://www.datacamp.com/statement-of-accomplishment/track/ee374bcbe5ec52e9824d55a05d4bcc974440bb03), DataCamp, June 2018
+

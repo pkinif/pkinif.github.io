@@ -1,0 +1,18 @@
+&emsp;
+
+# **Let's get in touch !**
+
+<br>
+<br>
+
+### Do you want to keep in touch? I will be more than happy to discuss with you! Here is how you can contact me:
+
+<br>
+<br>
+
+<h3><i class="fa fa-envelope" style="font-size:36px"></i> pierrick-kinif@hotmail.be</h3>
+<!--
+<h3><i class="fa fa-phone-square" style="font-size:36px"></i> 0032 478 113 485</h3>
+-->
+<h3><i class="fa fa-linkedin" style="font-size:36px"></i><a href="https://www.linkedin.com/in/pierrickkinif/"> pierrickkinif</a>
+<h3><i class="fa fa-github-square" style="font-size:36px"></i><a href="https://github.com/pkinif"> pkinif</a>
