@@ -5,13 +5,13 @@
 
 <br>
 <center>
-<img id="img-me" src="Image/MeEnRond.png" style="width:35%;" height="auto">
+<img id="img-me" src="www/MeEnRond.png" style="width:35%;" height="auto">
 </center>
 <br>
 
 > MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, Ex-Department Manager, I am currently working as a `Data Scientist` at Decathlon Belgium.
 I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment that places people and planet at the heart of all of its decision-making.
-As a Data Scientist, my first motivation is to make data available to the many in building fun and readable Web Applications. Then, I also like to optimize processes and efficiency using *Machine Learning & Automatization*.
+As a Data Scientist, my first motivation is to make data available to the many in building fun and readable Web Applications. I also like to optimize processes and efficiency using *Machine Learning & Automatization*.
 
 
 <br>
@@ -31,7 +31,7 @@ As a Data Scientist, my first motivation is to make data available to the many i
 
 ```{r, echo = FALSE, message= FALSE, out.width="15%"}
 require(knitr)
-myimages<-list.files("Image/Logo/Unif/", pattern = ".png", full.names = TRUE)
+myimages<-list.files("www/Logo/Unif/", pattern = ".png", full.names = TRUE)
 include_graphics(myimages)
 ```
 
@@ -41,7 +41,7 @@ include_graphics(myimages)
 
 ```{r, echo = FALSE, message= FALSE, out.width="15%"}
 require(knitr)
-myimages<-list.files("Image/Logo/Work/", pattern = ".png", full.names = TRUE)
+myimages<-list.files("www/Logo/Work/", pattern = ".png", full.names = TRUE)
 include_graphics(myimages)
 ```
 
@@ -64,31 +64,9 @@ include_graphics(myimages)
 
 ```{r, echo = FALSE, message= FALSE, out.width="33%"}
 require(knitr)
-myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
+myimages<-list.files("www/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)
 ```
 
 <br>
 <br>
-
-
-## **Contact Me**
-
-<hr>
-
-> *Do you want to keep in touch? Contact me!*
-
-<br>
-
-<h3><i class="fa fa-envelope" style="font-size:36px"></i> pierrick-kinif@hotmail.be</h3>
-
-<!--
-<h3><i class="fa fa-phone-square" style="font-size:36px"></i> 0032 478 113 485</h3>
--->
-
-<h3><i class="fa fa-linkedin" style="font-size:36px"></i><a href="https://www.linkedin.com/in/pierrickkinif/"> pierrickkinif</a>
-<h3><i class="fa fa-github-square" style="font-size:36px"></i><a href="https://github.com/pkinif"> pkinif</a>
-
-
-<br>
-<center>
