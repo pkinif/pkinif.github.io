@@ -1,0 +1,23 @@
+name: "Pierrick Kinif"
+output_dir: '.'
+navbar:
+  title: "Pierrick Kinif"
+  left:
+  - text: "About Me"
+    href: index.html
+  - text: "Cv"
+    href: Cv.html
+  right:
+  - icon: far fa-envelope
+    href: Contact.html
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/pierrickkinif/
+  - icon: fa fa-github-square
+    href: https://github.com/pkinif
+output:
+  html_document:
+    theme: cyborg
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+

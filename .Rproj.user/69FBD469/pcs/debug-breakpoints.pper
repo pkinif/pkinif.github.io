@@ -1,0 +1,36 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 555,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 38,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 555,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/GitHub/pkinif.github.io/test2.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 460,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 39,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 460,
+                "needs_updated_steps" : true,
+                "package_name" : "",
+                "path" : "~/GitHub/pkinif.github.io/test2.R",
+                "state" : 1,
+                "type" : 1
+            }
+        ]
+    }
+}
