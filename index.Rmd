@@ -9,7 +9,9 @@
 </center>
 <br>
 
-> MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, I am currently working as a Department Manager at Decathlon. I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment which places people and planet at the heart of all of its decision-making. I am a goal-oriented person and my passion for data science (R user [2+ years]) helps me to develop excellent decision-making tools and techniques based on tangible information.
+> MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, Ex-Department Manager, I am currently working as a `Data Scientist` at Decathlon Belgium.
+I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment that places people and planet at the heart of all of its decision-making.
+As a Data Scientist, my first motivation is to make data available to the many in building fun and readable Web Applications. Then, I also like to optimize processes and efficiency using *Machine Learning & Automatization*.
 
 
 <br>
