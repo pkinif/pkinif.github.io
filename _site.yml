@@ -16,7 +16,7 @@ navbar:
     href: https://github.com/pkinif
 output:
   html_document:
-    theme: cyborg
+    #theme: cyborg
     highlight: textmate
     include: 
       after_body: footer.html

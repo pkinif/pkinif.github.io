@@ -5,7 +5,7 @@
 
 <br>
 <center>
-<img id="img-me" src="www/MeEnRond.png" style="width:35%;" height="auto">
+<img id="img-me" src="Image/MeEnRond.png" style="width:35%;" height="auto">
 </center>
 <br>
 
@@ -29,7 +29,7 @@
 
 ```{r, echo = FALSE, message= FALSE, out.width="15%"}
 require(knitr)
-myimages<-list.files("www/Logo/Unif/", pattern = ".png", full.names = TRUE)
+myimages<-list.files("Image/Logo/Unif/", pattern = ".png", full.names = TRUE)
 include_graphics(myimages)
 ```
 
@@ -39,7 +39,7 @@ include_graphics(myimages)
 
 ```{r, echo = FALSE, message= FALSE, out.width="15%"}
 require(knitr)
-myimages<-list.files("www/Logo/Work/", pattern = ".png", full.names = TRUE)
+myimages<-list.files("Image/Logo/Work/", pattern = ".png", full.names = TRUE)
 include_graphics(myimages)
 ```
 
@@ -62,7 +62,7 @@ include_graphics(myimages)
 
 ```{r, echo = FALSE, message= FALSE, out.width="33%"}
 require(knitr)
-myimages<-list.files("www/Passion/", pattern = ".JPG", full.names = TRUE)
+myimages<-list.files("Image/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)
 ```
 
