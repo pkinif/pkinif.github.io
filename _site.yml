@@ -18,6 +18,9 @@ output:
   html_document:
     theme: cyborg
     highlight: textmate
+    include: 
+      after_body: footer.html
     lib_dir: site_libs
     self_contained: no
+    css: bootstrap.css
 
