@@ -11,7 +11,7 @@ navbar:
     menu:
       - icon: fa-linkedin fa-lg
         text: " Linkedin"
-        href: <a href = "https://www.linkedin.com/in/pierrickkinif/" target = "_blank" </a>      
+        href: https://www.linkedin.com/in/pierrickkinif/
       - icon: fa fa-github-square
         text: " GitHub"
         href: https://github.com/pkinif
