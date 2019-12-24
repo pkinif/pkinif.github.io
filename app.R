@@ -72,7 +72,7 @@ ui <- shiny::fluidPage(
         column(
           width = 8,
           fluidRow(
-            h1(
+            h2(
               class = "text-left text-warning",
               style = "padding-bottom: 0px !important;",  
               p("Hello, I am", code("Pierrick!"))
@@ -81,7 +81,7 @@ ui <- shiny::fluidPage(
             tags$blockquote(
               class = "blockquote-reverse",
               style = "color: #7ab98d;",
-              h2(em(strong("A Self Learner Data Science Enthusiast keeping himself up-to-date on new technologies.")))
+              h3(em(strong("A Self Learner Data Science Enthusiast keeping himself up-to-date on new technologies.")))
             ),
             h3(
               style = "color: #7dbc9c;",
