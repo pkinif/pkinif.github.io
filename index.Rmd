@@ -1,75 +1,65 @@
-
-&emsp;
-
-# **Hi, I am Pierrick!**
-
-<br>
-<center>
-<img id="img-me" src="www/MeEnRond.png" style="width:35%;" height="auto">
-</center>
-<br>
-
-> MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, Ex-Department Manager, I am currently working as a `Data Scientist` at Decathlon Belgium.
-I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment that places people and planet at the heart of all of its decision-making.
-As a Data Scientist, my first motivation is to make data available to the many in building fun and readable Web Applications. I also like to optimize processes and efficiency using *Machine Learning & Automatization*.
+---
+runtime: shiny
+---
 
 
-<br>
-<center>
+```{r echo = FALSE}
+library(shiny)
+# Define UI for app that draws a histogram ----
+ui <- fluidPage(
 
-## **Curriculum Vitae**
+  # App title ----
+  titlePanel("Hello Shiny!"),
 
-<hr>
+  # Sidebar layout with input and output definitions ----
+  sidebarLayout(
 
-> *I've spent a lot of time studying and working for great universities and companies.*
+    # Sidebar panel for inputs ----
+    sidebarPanel(
 
-<center>
+      # Input: Slider for the number of bins ----
+      sliderInput(inputId = "bins",
+                  label = "Number of bins:",
+                  min = 1,
+                  max = 50,
+                  value = 30)
 
-<font size="5">
-<p align="left">Education:</p>
-</font> 
+    ),
 
-```{r, echo = FALSE, message= FALSE, out.width="15%"}
-require(knitr)
-myimages<-list.files("www/Logo/Unif/", pattern = ".png", full.names = TRUE)
-include_graphics(myimages)
+    # Main panel for displaying outputs ----
+    mainPanel(
+
+      # Output: Histogram ----
+      plotOutput(outputId = "distPlot")
+
+    )
+  )
+)
+
+# Define server logic required to draw a histogram ----
+server <- function(input, output) {
+
+  # Histogram of the Old Faithful Geyser Data ----
+  # with requested number of bins
+  # This expression that generates a histogram is wrapped in a call
+  # to renderPlot to indicate that:
+  #
+  # 1. It is "reactive" and therefore should be automatically
+  #    re-executed when inputs (input$bins) change
+  # 2. Its output type is a plot
+  output$distPlot <- renderPlot({
+
+    x    <- faithful$waiting
+    bins <- seq(min(x), max(x), length.out = input$bins + 1)
+
+    hist(x, breaks = bins, col = "#75AADB", border = "white",
+         xlab = "Waiting time to next eruption (in mins)",
+         main = "Histogram of waiting times")
+
+    })
+
+}
+
+shinyApp(ui, server)
 ```
-
-<font size="5">
-<p align="left">Experience:</p>
-</font> 
-
-```{r, echo = FALSE, message= FALSE, out.width="15%"}
-require(knitr)
-myimages<-list.files("www/Logo/Work/", pattern = ".png", full.names = TRUE)
-include_graphics(myimages)
-```
-
-<br>
-
-<button class="btn btn-success" onclick=" window.open('https://www.pierrickkinif.com/Cv.html','_blank')"> Check My Full Cv</button>
-
-
-<br>
-<br>
-
-<center>
-
-
-## In my free time...
-
-<hr>
-
-> *I like spending time abroad to meet people, learn different cultures, and experiment with new things.* 
-
-```{r, echo = FALSE, message= FALSE, out.width="33%"}
-require(knitr)
-myimages<-list.files("www/Passion/", pattern = ".JPG", full.names = TRUE)
-include_graphics(myimages)
-```
-
-<br>
-<br>
-
-
 
