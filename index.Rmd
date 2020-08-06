@@ -57,7 +57,7 @@ include_graphics(myimages)
 <center>
 
 
-## In my free time...
+## **In my free time...**
 
 <hr>
 
