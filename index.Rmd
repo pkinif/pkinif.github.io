@@ -1,7 +1,6 @@
-
-&emsp;
-
-# **Hi, I am Pierrick!**
+---
+title: "**Hi, I am Pierrick**"
+---
 
 <br>
 <center>
@@ -9,9 +8,13 @@
 </center>
 <br>
 
-> MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, Ex-Department Manager, I am currently working as a `Data Scientist` at Decathlon Belgium.
-I have found that nothing satisfies me more than evolving in a dynamic, intellectual, and challenging environment that places people and planet at the heart of all of its decision-making.
-As a Data Scientist, my first motivation is to make data available to the many in building fun and readable Web Applications. I also like to optimize processes and efficiency using *Machine Learning & Automatization*.
+> MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, Ex-Department Manager, I am currently working as a `Data Scientist` at Decathlon Belgium. 
+<br> <br>
+As a Data Scientist, my first motivation is to make data available to the many in building powerful Web Applications to provide insights to decision-makers. Using Machine Learning and Processes Automatization, I capture features impacting performance to communicate and save time to my clients. I am an R language lover with particularly strong feelings for the Shiny Community. 
+<br> <br>
+What do I love about the data science world? `Every day is a new opportunity to learn something new`.
+
+
 
 
 <br>
@@ -21,15 +24,13 @@ As a Data Scientist, my first motivation is to make data available to the many i
 
 <hr>
 
-> *I've spent a lot of time studying and working for great universities and companies.*
-
 <center>
 
 <font size="5">
 <p align="left">Education:</p>
 </font> 
 
-```{r, echo = FALSE, message= FALSE, out.width="15%"}
+```{r, echo = FALSE, message= FALSE, error = FALSE, warning = FALSE, out.width="15%"}
 require(knitr)
 myimages<-list.files("www/Logo/Unif/", pattern = ".png", full.names = TRUE)
 include_graphics(myimages)
@@ -39,7 +40,7 @@ include_graphics(myimages)
 <p align="left">Experience:</p>
 </font> 
 
-```{r, echo = FALSE, message= FALSE, out.width="15%"}
+```{r, echo = FALSE, message= FALSE, error = FALSE, warning = FALSE, out.width="15%"}
 require(knitr)
 myimages<-list.files("www/Logo/Work/", pattern = ".png", full.names = TRUE)
 include_graphics(myimages)
@@ -62,7 +63,7 @@ include_graphics(myimages)
 
 > *I like spending time abroad to meet people, learn different cultures, and experiment with new things.* 
 
-```{r, echo = FALSE, message= FALSE, out.width="33%"}
+```{r, echo = FALSE, message= FALSE, error = FALSE, warning = FALSE, out.width="33%"}
 require(knitr)
 myimages<-list.files("www/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)

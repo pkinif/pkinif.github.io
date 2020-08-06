@@ -7,6 +7,8 @@ navbar:
     href: index.html
   - text: "Cv"
     href: Cv.html
+  - text: "Portfolio"
+    href: https://portfolio.pierrickkinif.com/
   - text: "Contact Info:"
     menu:
       - icon: fa-linkedin fa-lg
@@ -15,9 +17,6 @@ navbar:
       - icon: fa fa-github-square
         text: " GitHub"
         href: https://github.com/pkinif
-      - icon: fab fa-facebook
-        text: " Facebook"
-        href: https://www.facebook.com/pierrickk
       - icon: far fa-envelope
         text: " Email"
         href: mailto:pierrick-kinif@hotmail.be
@@ -28,11 +27,11 @@ navbar:
     
 output:
   html_document:
-    theme: yeti
+    theme: cosmo
     highlight: textmate
     include: 
       after_body: footer.html
     lib_dir: site_libs
     self_contained: no
-    #css: bootstrap.css
+
 
