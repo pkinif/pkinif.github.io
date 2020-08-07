@@ -127,9 +127,9 @@ Belgian fast food chain of more than 70 restaurants.
 
 # CERTIFICATION
 
-- [DS4B 20201-R: Data Science For Business With R](https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover){target = "_blank"}, Business Science University, June 2020
-- [DS4B 202A-R R: Shiny Developer with AWS](https://university.business-science.io/p/expert-shiny-developer-with-aws-course-ds4b-202a-r/){target = "_blank"}, Business Science University, January 2020
-- [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=SQL_v.PROF_la.EN_cc.ROWMTA-A_ti.7862&utm_content=deal4584&utm_term=_._ag_77741620723_._ad_382048193275_._kw__._de_c_._dm__._pl__._ti_dsa-774930038369_._li_1001418_._pd__._&matchtype=b&gclid=EAIaIQobChMIy8Wxq5WG6wIVTeJ3Ch3QnApQEAAYASAAEgIREfD_BwE){target = "_blank"}, Udemy, Novembre 2019
+- [DS4B 20201-R: Data Science For Business With R](https://university.business-science.io/p/hr201-using-machine-learning-h2o-lime-to-predict-employee-turnover){target="_blank"}, Business Science University, June 2020
+- [DS4B 202A-R R: Shiny Developer with AWS](https://university.business-science.io/p/expert-shiny-developer-with-aws-course-ds4b-202a-r/){target="_blank"}, Business Science University, January 2020
+- [The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=SQL_v.PROF_la.EN_cc.ROWMTA-A_ti.7862&utm_content=deal4584&utm_term=_._ag_77741620723_._ad_382048193275_._kw__._de_c_._dm__._pl__._ti_dsa-774930038369_._li_1001418_._pd__._&matchtype=b&gclid=EAIaIQobChMIy8Wxq5WG6wIVTeJ3Ch3QnApQEAAYASAAEgIREfD_BwE){target="_blank"}, Udemy, Novembre 2019
 - [R Programming Track Certification](https://www.datacamp.com/statement-of-accomplishment/track/9a890cbd92c12c460df02974feaef2b0b564d6ae){target="_blank"}, DataCamp, April 2019
 - [Importing & Cleaning Data with R Track Certification](https://www.datacamp.com/statement-of-accomplishment/track/2f5129311b13fce47c0c8af797124363dc43f7d4){target="_blank"}, DataCamp, August 2019
 - [Data Analyst with R Certification](https://www.datacamp.com/statement-of-accomplishment/track/ee374bcbe5ec52e9824d55a05d4bcc974440bb03){target="_blank"}, DataCamp, June 2018
