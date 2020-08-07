@@ -11,17 +11,16 @@ navbar:
     href: https://portfolio.pierrickkinif.com/
   - text: "Contact"
     href: contact.html
-    #menu:
-      #- icon: fa-linkedin fa-lg
-      #  text: " Linkedin"
-      #  href: https://www.linkedin.com/in/pierrickkinif/
-      #- icon: fa fa-github-square
-      #  text: " GitHub"
-      #  href: https://github.com/pkinif
-      #- icon: far fa-envelope
-      #  text: " Email"
-      #  href: mailto:pierrick-kinif@hotmail.be
+
   right:
+  - text: Follow Me
+    menu:
+      - icon: fa-linkedin fa-lg
+        text: " Linkedin"
+        href: https://www.linkedin.com/in/pierrickkinif/
+      - icon: fa fa-github-square
+        text: " GitHub"
+        href: https://github.com/pkinif
   - icon: fas fa-code
     text: Code on GitHub
     href: https://github.com/pkinif/pkinif.github.io
