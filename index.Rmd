@@ -69,8 +69,4 @@ myimages<-list.files("www/Passion/", pattern = ".JPG", full.names = TRUE)
 include_graphics(myimages)
 ```
 
-<br>
-<br>
-
-
 

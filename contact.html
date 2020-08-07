@@ -11,7 +11,7 @@
 
 
 
-<title>Hi, I am Pierrick</title>
+<title>Contact me</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -301,52 +301,128 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore"><strong>Hi, I am Pierrick</strong></h1>
+<h1 class="title toc-ignore"><strong>Contact me</strong></h1>
 
 </div>
 
 
-<br>
-<center>
-<img id="img-me" src="www/MeEnRond.png" style="width:35%;" height="auto">
-</center>
-<p><br></p>
-<blockquote>
-<p>MBA graduate, Ex-Credit Risk Data Analyst, Ex-Assistant Sustainability Practice, Ex-Department Manager, I am currently working as a <code>Data Scientist</code> at Decathlon Belgium. <br> <br> As a Data Scientist, my first motivation is to make data available to the many in building powerful Web Applications to provide insights to decision-makers. Using Machine Learning and Processes Automatization, I capture features impacting performance to communicate and save time to my clients. I am an R language lover with particularly strong feelings for the Shiny Community. <br> <br> What do I love about the data science world? <code>Every day is a new opportunity to learn something new</code>.</p>
-</blockquote>
-<br>
-<center>
-<div id="curriculum-vitae" class="section level2">
-<h2><strong>Curriculum Vitae</strong></h2>
-<hr>
-<center>
-<font size="5">
-<p align="left">
-Education:
-</p>
-<p></font></p>
-<p><img src="www/Logo/Unif/1Uni.png" width="15%" /><img src="www/Logo/Unif/2Unamur.png" width="15%" /><img src="www/Logo/Unif/3FeaUsp.png" width="15%" /></p>
-<font size="5">
-<p align="left">
-Experience:
-</p>
-<p></font></p>
-<p><img src="www/Logo/Work/0Logo-Décathlon.png" width="15%" /><img src="www/Logo/Work/1IMS.png" width="15%" /><img src="www/Logo/Work/2BIL.png" width="15%" /><img src="www/Logo/Work/3_4ucampus_orange.png" width="15%" /><img src="www/Logo/Work/4LunchGarden.png" width="15%" /></p>
-<p><br></p>
-<button class="btn btn-success" onclick=" window.open(&#39;https://www.pierrickkinif.com/Cv.html&#39;,&#39;_blank&#39;)">
-Check My Full Cv
-</button>
 <p><br> <br></p>
-<center>
-</div>
-<div id="in-my-free-time" class="section level2">
-<h2><strong>In my free time…</strong></h2>
-<hr>
-<blockquote>
-<p><em>I like spending time abroad to meet people, learn different cultures, and experiment with new things.</em></p>
-</blockquote>
-<p><img src="www/Passion/Fire.JPG" width="33%" /><img src="www/Passion/GlobeTrotter.JPG" width="33%" /><img src="www/Passion/P8210705%20-%20Copie.JPG" width="33%" /></p>
-</div>
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/xrgyjwkv" method="post">
+<fieldset id="fs-frm-inputs">
+<label for="full-name">Full Name</label> <input type="text" name="name" id="full-name" placeholder="What's your name?" required=""> <label for="email-address">Email Address</label> <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required=""> <label for="message">Message</label>
+<textarea rows="5" name="message" id="message" placeholder="What would you like to say?" required=""></textarea>
+<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+</fieldset>
+<input type="submit" value="Submit">
+</form>
+<style>/* reset */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm fieldset,
+#fs-frm optgroup,
+#fs-frm label,
+#fs-frm #card-element:disabled {
+  font-family: inherit;
+  font-size: 100%;
+  color: inherit;
+  border: none;
+  border-radius: 0;
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+#fs-frm label,
+#fs-frm legend,
+#fs-frm ::placeholder {
+  font-size: 1.5rem;
+  margin-bottom: .5rem;
+  padding-top: .2rem;
+  display: flex;
+  align-items: baseline;
+}
+
+/* border, padding, margin, width */
+#fs-frm input,
+#fs-frm select,
+#fs-frm textarea,
+#fs-frm #card-element {
+  border: 1px solid rgba(0,0,0,0.2);
+  background-color: rgba(255,255,255,0.9);
+  padding: .75em 1rem;
+  margin-bottom: 1.5rem;
+}
+#fs-frm input:focus,
+#fs-frm select:focus,
+#fs-frm textarea:focus {
+  background-color: white;
+  outline-style: solid;
+  outline-width: thin;
+  outline-color: gray;
+  outline-offset: -1px;
+}
+#fs-frm [type="text"],
+#fs-frm [type="email"] {
+  width: 100%;
+}
+#fs-frm [type="button"],
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+  width: auto;
+  cursor: pointer;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+}
+#fs-frm [type="button"]:focus,
+#fs-frm [type="submit"]:focus,
+#fs-frm [type="reset"]:focus {
+  outline: none;
+}
+#fs-frm [type="submit"],
+#fs-frm [type="reset"] {
+  margin-bottom: 0;
+}
+#fs-frm select {
+  text-transform: none;
+}
+
+#fs-frm [type="checkbox"] {
+  -webkit-appearance: checkbox;
+  -moz-appearance: checkbox;
+  appearance: checkbox;
+  display: inline-block;
+  width: auto;
+  margin: 0 .5em 0 0 !important;
+}
+
+#fs-frm [type="radio"] {
+  -webkit-appearance: radio;
+  -moz-appearance: radio;
+  appearance: radio;
+}
+
+/* address, locale */
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="postal-code"] {
+  display: inline;
+}
+#fs-frm fieldset.locale input[name="city"] {
+  width: 52%;
+}
+#fs-frm fieldset.locale select[name="state"],
+#fs-frm fieldset.locale input[name="postal-code"] {
+  width: 20%;
+}
+#fs-frm fieldset.locale input[name="city"],
+#fs-frm fieldset.locale select[name="state"] {
+  margin-right: 3%;
+}
+</style>
 
 <hr>
 <div class='footer text-center'>
