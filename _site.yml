@@ -23,7 +23,7 @@ navbar:
       #  href: mailto:pierrick-kinif@hotmail.be
   right:
   - icon: fas fa-code
-    text: code
+    text: Code on GitHub
     href: https://github.com/pkinif/pkinif.github.io
     
 output:
