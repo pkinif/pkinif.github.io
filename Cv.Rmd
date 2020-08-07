@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "**Curriculum Vitae**"
 output:  
   html_document:  
     toc: true  
